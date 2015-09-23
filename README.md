@@ -14,6 +14,9 @@ It extends Odoo/OpenERP to add needed functionnalites to use Odoo/OpenERP in Ira
 ${REPO_DESCRIPTION_AND_MODULE_LIST}
 
 
+[//]: # (addons)
+[//]: # (end addons)
+
 Translation Status
 ------------------
 [![Transifex Status](https://www.transifex.com/projects/p/${ORG_NAME}-${REPO_NAME}-${BRANCH_NAME_WITH_DASH}/chart/image_png)](https://www.transifex.com/projects/p/${ORG_NAME}-${REPO_NAME}-${BRANCH_NAME_WITH_DASH})
