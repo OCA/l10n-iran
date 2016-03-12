@@ -1,14 +1,39 @@
+.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
+   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+   :alt: License: AGPL-3
+
+===================
 Iran Country States
 ===================
 
-Add Iranian country states as res.country.state
+This modules provides localization for Iranian users and adds country states (provinces).
+
+
+Installation
+============
+
+This modules has no dependency but if you want RTL support you can use
+**web_rtl** module from <https://github.com/barsi/odoo-rtl>
+
+
+Configuration
+=============
+
+No specific configuration is needed.
 
 
 Usage
 =====
+
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
    :target: https://runbot.odoo-community.org/runbot/204/9.0
+
+
+Known issues / Roadmap
+======================
+
+* No issues yet.
 
 
 Bug Tracker
@@ -23,6 +48,11 @@ If you spotted it first, help us smashing it by providing a detailed and welcome
 Credits
 =======
 
+Images
+------
+
+* Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
+
 Contributors
 ------------
 
@@ -31,9 +61,9 @@ Farid Shahy <fshahy@gmail.com>
 Maintainer
 ----------
 
-.. image:: http://odoo-community.org/logo.png
+.. image:: https://odoo-community.org/logo.png
    :alt: Odoo Community Association
-   :target: http://odoo-community.org
+   :target: https://odoo-community.org
 
 This module is maintained by the OCA.
 

@@ -88,7 +88,7 @@
 	
 	    <record id="state_sm" model="res.country.state">
 	        <field name="name">Semnan</field>
-	        <field name="code">sm</field>
+	        <field name="code">SM</field>
 	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
 	    </record>
 	    
