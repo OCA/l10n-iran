@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data noupdate="1">
+	
+	    <record id="state_ea" model="res.country.state">
+	        <field name="name">East Azerbaijan</field>
+	        <field name="code">EA</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>
+	       
+	    <record id="state_wa" model="res.country.state">
+	        <field name="name">West Azerbaijan</field>
+	        <field name="code">WA</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_ar" model="res.country.state">
+	        <field name="name">Ardebil</field>
+	        <field name="code">AR</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>  
+	    
+	    <record id="state_is" model="res.country.state">
+	        <field name="name">Isfahan</field>
+	        <field name="code">IS</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>
+	    
+	    <record id="state_al" model="res.country.state">
+	        <field name="name">Alborz</field>
+	        <field name="code">AL</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>     
+	    
+	    <record id="state_il" model="res.country.state">
+	        <field name="name">Ilam</field>
+	        <field name="code">IL</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>    
+	    
+	    <record id="state_bu" model="res.country.state">
+	        <field name="name">Bushehr</field>
+	        <field name="code">BU</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_th" model="res.country.state">
+	        <field name="name">Tehran</field>
+	        <field name="code">TH</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_mb" model="res.country.state">
+	        <field name="name">Chahar Mahal va Bakhtiari</field>
+	        <field name="code">MB</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>  
+	    
+	    <record id="state_sk" model="res.country.state">
+	        <field name="name">South Khorasan</field>
+	        <field name="code">SK</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_rk" model="res.country.state">
+	        <field name="name">Razavi Khorasan</field>
+	        <field name="code">RK</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_nk" model="res.country.state">
+	        <field name="name">North Khorasan</field>
+	        <field name="code">NK</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>          
+	    
+	    <record id="state_kh" model="res.country.state">
+	        <field name="name">Khouzestan</field>
+	        <field name="code">KH</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>    
+	    
+	    <record id="state_za" model="res.country.state">
+	        <field name="name">Zanjan</field>
+	        <field name="code">ZA</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>                                                 
+	
+	    <record id="state_sm" model="res.country.state">
+	        <field name="name">Semnan</field>
+	        <field name="code">sm</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>
+	    
+	    <record id="state_sb" model="res.country.state">
+	        <field name="name">Sistan and Balouchestan</field>
+	        <field name="code">SB</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	    
+	    <record id="state_fa" model="res.country.state">
+	        <field name="name">Fars</field>
+	        <field name="code">FA</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	    
+	    <record id="state_qz" model="res.country.state">
+	        <field name="name">Qazvin</field>
+	        <field name="code">QZ</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	    
+	    <record id="state_qm" model="res.country.state">
+	        <field name="name">Qom</field>
+	        <field name="code">QM</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	    
+	    <record id="state_kr" model="res.country.state">
+	        <field name="name">Kordestan</field>
+	        <field name="code">KR</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_km" model="res.country.state">
+	        <field name="name">Kerman</field>
+	        <field name="code">KM</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record> 
+	    
+	    <record id="state_ks" model="res.country.state">
+	        <field name="name">Kermanshah</field>
+	        <field name="code">KS</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>     
+	    
+	    <record id="state_kb" model="res.country.state">
+	        <field name="name">Kohkluye va Boirahmad</field>
+	        <field name="code">KB</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>  
+	    
+	    <record id="state_gl" model="res.country.state">
+	        <field name="name">Golestan</field>
+	        <field name="code">GL</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>          
+	    
+	    <record id="state_gi" model="res.country.state">
+	        <field name="name">Gilan</field>
+	        <field name="code">GI</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>  
+	    
+	    <record id="state_lo" model="res.country.state">
+	        <field name="name">Lorestan</field>
+	        <field name="code">LO</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>           
+	    
+	    <record id="state_mz" model="res.country.state">
+	        <field name="name">Mazandaran</field>
+	        <field name="code">MZ</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>   
+	    
+	    <record id="state_mr" model="res.country.state">
+	        <field name="name">Markazi</field>
+	        <field name="code">MR</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>        
+	    
+	    <record id="state_hr" model="res.country.state">
+	        <field name="name">Hormozgan</field>
+	        <field name="code">HR</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>
+	    
+	    <record id="state_ha" model="res.country.state">
+	        <field name="name">Hamedan</field>
+	        <field name="code">HA</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	    
+	    <record id="state_yz" model="res.country.state">
+	        <field name="name">Yazd</field>
+	        <field name="code">YZ</field>
+	        <field model="res.country" name="country_id" search="[('code','=','IR')]" />
+	    </record>       
+	
+	</data>
+</openerp>
