@@ -24,7 +24,7 @@
     'name': 'Iran Country States',
     'category': 'Localization',
     'version': '9.0.1.0.0',
-    'author': 'Farid Shahy, Odoo Community Association (OCA)' ,
+    'author': 'Farid Shahy, Odoo Community Association (OCA)',
     'website': 'http://fshahy.github.io',
     'license': 'AGPL-3',
     'depends': [
