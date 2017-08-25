@@ -9,8 +9,5 @@
  'author': 'Elico Corp, Odoo Community Association (OCA)',
  'license': 'AGPL-3',
  'website': 'https://www.elico-corp.com',
- 'images': [],
- 'demo': [],
- 'data': [],
  'installable': True,
  'application': False}

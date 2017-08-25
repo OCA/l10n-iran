@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+# © 2015 Elico Corp (https://www.elico-corp.com).
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 import datetime
-import jdatetime
-
+try:
+    import jdatetime
+except (ImportError, IOError) as err:
+    _logger.debug(err)
 
 def convert_jalali(orign_date_str):
     if orign_date_str:
