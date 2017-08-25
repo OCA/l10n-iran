@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <template id="purchase_jalali_date" inherit_id="purchase.report_purchaseorder_document">
+            <xpath expr="//p[@t-field='o.date_order']" position="replace">
+                <p t-esc="o.convert_jalali(o)[0]"/>
+            </xpath>
+            <xpath expr="//span[@t-field='line.date_planned']" position="replace">
+                <span t-esc="line.convert_jalali(line)[0]"/>
+            </xpath>
+        </template>
+
+        <template id="purchasequotation_jalali_date" inherit_id="purchase.report_purchasequotation_document">
+            <xpath expr="//span[@t-field='order_line.date_planned']" position="replace">
+                <span t-esc="order_line.convert_jalali(order_line)[0]"/>
+            </xpath>
+        </template>
+
+    </data>
+</openerp>

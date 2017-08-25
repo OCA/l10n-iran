@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <template id="mrp_jalali_date" inherit_id="mrp.report_mrporder">
+            <xpath expr="//span[@t-field='o.date_planned']" position="replace">
+                <span t-esc="o.convert_jalali(o)[0]"/>
+            </xpath>
+            <xpath expr="//div[strong='Printing date:']" position="replace">
+                <div class="col-xs-3">
+                    <strong>Printing date:</strong><br/>
+                    <span t-esc="o.convert_jalali(o)[0]"/>
+                </div>
+            </xpath>
+
+        </template>
+
+    </data>
+</openerp>
