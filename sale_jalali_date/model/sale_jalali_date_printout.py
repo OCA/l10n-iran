@@ -8,6 +8,7 @@ from openerp import models, api
 class SaleOrder(models.Model):
     _inherit = 'sale.order'
 
-    @api.one
+    @api.multi
     def convert_jalali(self, obj):
+        self.ensure_one()
         return convert_jalali(obj.date_order)

@@ -8,8 +8,9 @@ from openerp import models, api
 class PurchaseOrder(models.Model):
     _inherit = 'purchase.order'
 
-    @api.one
+    @api.multi
     def convert_jalali(self, obj):
+        self.ensure_one()
         date_iran = convert_jalali(obj.date_order)
         return date_iran
 
@@ -17,7 +18,8 @@ class PurchaseOrder(models.Model):
 class PurchaseOrderLine(models.Model):
     _inherit = 'purchase.order.line'
 
-    @api.one
+    @api.multi
     def convert_jalali(self, obj):
+        self.ensure_one()
         date_iran = convert_jalali(obj.date_planned)
         return date_iran

@@ -8,6 +8,7 @@ from openerp import models, api
 class AccountInvoice(models.Model):
     _inherit = 'account.invoice'
 
-    @api.one
+    @api.multi
     def convert_jalali(self, obj):
+        self.ensure_one()
         return convert_jalali(obj.date_invoice)

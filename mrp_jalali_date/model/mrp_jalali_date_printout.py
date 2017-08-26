@@ -9,8 +9,9 @@ import time
 class MrpProduction(models.Model):
     _inherit = 'mrp.production'
 
-    @api.one
+    @api.multi
     def convert_jalali(self, obj):
+        self.ensure_one()
         date_iran = convert_jalali(obj.date_planned)
         return date_iran
 
