@@ -3,6 +3,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 import datetime
 import logging
+_logger = logging.getLogger(__name__)
 try:
     import jdatetime
 except (ImportError, IOError) as err:
