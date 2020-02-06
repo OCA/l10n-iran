@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <template id="sale_jalali_date" inherit_id="sale.report_saleorder_document">
+            <xpath expr="//p[@t-field='o.date_order']" position="replace">
+                <p t-esc="o.convert_jalali(o)[0]"/>
+            </xpath>
+        </template>
+
+    </data>
+</openerp>
