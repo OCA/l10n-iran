@@ -10,7 +10,7 @@
     "license": "AGPL-3",
     "category": "بومی سازی ایران/Technical",
     "summary": "بومی سازی ایران ",
-    "depends": ["base"],
+    "depends": ["base","account"],
     "data": [],
         'external_dependencies': {
         'python' : ['jdatetime'],
