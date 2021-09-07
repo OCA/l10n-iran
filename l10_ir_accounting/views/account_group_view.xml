@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="accoutn_group_action" model="ir.actions.act_window">
+            <field name="name">گروه حساب</field>
+            <field name="res_model">account.group</field>
+            <field name="view_mode">tree,form</field>
+            <field name="search_view_id" ref="account.view_account_group_search"/>
+            <field name="view_id" ref="account.view_account_group_tree"/>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">
+                یک گروه حساب جدید تعریف کنید
+                </p><p>
+                گروه حساب مشخص کردن سطح کل و گروه سیستم کدینگ است
+
+                </p>
+            </field>
+        </record>
+
+        <menuitem id="accoutn_group_menu" sequence="1"
+                    name="گروه حساب" parent="account.account_account_menu" action="accoutn_group_action"/>
+
+    </data>              
+</odoo>
+
+
