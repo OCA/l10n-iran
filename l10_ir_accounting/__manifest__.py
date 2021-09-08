@@ -10,7 +10,7 @@
     "license": "AGPL-3",
     "category": "بومی سازی ایران/Technical",
     "summary": "بومی سازی ایران ",
-    'depends': ['base', 'account','base_accounting_kit'],
+    'depends': ['base', 'account'],
     "data": [
         "views/account_group_view.xml",
     ],
