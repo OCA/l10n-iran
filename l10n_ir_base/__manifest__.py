@@ -3,13 +3,13 @@
 {
     "name": "Iran - Base",
     "version": "14.0.3.0.0",
-    "author": "saeed Raeisi, "
+    "author": "fadoo"
     "Fawan",
     "maintainer": "Saeed Raeisi",
     "website": "https://fadoo.ir",
     "license": "AGPL-3",
-    "category": "بومی سازی ایران/Technical",
-    "summary": "بومی سازی ایران ",
+    "category": "Technical",
+    "summary": "Iran Localization",
     "depends": ["base","account"],
     "data": [],
         'external_dependencies': {

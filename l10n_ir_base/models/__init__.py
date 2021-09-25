@@ -1,3 +1,3 @@
 # from . import sale_report
-from . import fa_models
+from . import base_model
 from . import account_journal_dashboard
