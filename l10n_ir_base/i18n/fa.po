@@ -31,8 +31,34 @@ msgid ""
 "Iran Localization\n"
 msgstr "بومی سازی ایران"
 
+#. module: base
+#: model:ir.module.category,name:base.module_category_l10n
+msgid "l10n"
+msgstr "بومی سازی"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.l10n_ir_base
 msgid "Iran - Base"
 msgstr "ایران - پایه"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__jalali
+msgid "Jalali (Persian) Calendar"
+msgstr "تقویم شمسی (جلالی)"
+
+
+#. module: l10n_ir_base
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__gregorian
+msgid "Gregorian Calendar"
+msgstr "تقویم میلادی"
+
+
+#. module: l10n_ir_base
+#: model_terms:ir.ui.view,arch_db:l10n_ir_base.persian_calendar_prefernces_form
+msgid "Caldendar"
+msgstr "تقویم"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__calendar
+msgid "Calendar"
+msgstr "تقویم"

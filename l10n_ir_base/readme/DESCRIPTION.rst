@@ -1,1 +1,1 @@
-This module chnage all label date to jalali
+This module changes all date labels to Jalali.

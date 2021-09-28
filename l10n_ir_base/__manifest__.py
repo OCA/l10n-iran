@@ -3,17 +3,16 @@
 {
     "name": "Iran - Base",
     "version": "14.0.3.0.0",
-    "author": "fadoo"
-    "Fawan",
-    "maintainer": "Saeed Raeisi",
-    "website": "https://fadoo.ir",
+    "author": "fadoo, Odoo Community Association (OCA)",
+    "maintainer": ["saeed-raesi"],
+    "website": "https://github.com/OCA/l10n-iran",
     "license": "AGPL-3",
-    "category": "Technical",
+    "category": "l10n/Technical",
     "summary": "Iran Localization",
-    "depends": ["base","account"],
-    "data": [],
-        'external_dependencies': {
-        'python' : ['jdatetime'],
+    "depends": ["base", "account"],
+    "data": ["views/user_preferences.xml"],
+    "external_dependencies": {
+        "python": ["jdatetime"],
     },
     "installable": True,
 }
