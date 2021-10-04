@@ -11,7 +11,6 @@ class HrContract(models.Model):
     )
     l10n_ir_grocery_allowance = fields.Monetary(
         string="Grocery Allowance",
-        required=True,
         store=True,
         help="Monthly food allowance.",
     )
@@ -20,7 +19,6 @@ class HrContract(models.Model):
     )
     l10n_ir_house_allowance = fields.Monetary(
         string="House Allowance",
-        required=True,
         store=True,
         help="Monthly housing allowance.",
     )
