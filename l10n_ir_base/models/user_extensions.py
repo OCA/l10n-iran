@@ -4,10 +4,19 @@ from odoo import fields, models
 class UsersExtensions(models.Model):
     _inherit = "res.users"
 
+    l10n_ir_national_code = code = fields.Char(
+        string="Natinal Code", size=11, help="National code used for iran."
+    )
+
     calendar = fields.Selection(
         [("gregorian", "Gregorian Calendar"), ("jalali", "Jalali (Persian) Calendar")],
         default="gregorian",
     )
-    date_format = fields.Selection(
-        [("YYYY/MM/DD", "1399/01/01"), ("YYYY/M/D", "1399/1/1")], default="YYYY/MM/DD"
+
+
+class ResPartner(models.Model):
+    _inherit = "res.partner"
+
+    l10n_ir_national_code = code = fields.Char(
+        string="Natinal Code", size=11, help="National code used for iran."
     )

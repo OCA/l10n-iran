@@ -8,11 +8,8 @@
       <field name="arch" type="xml">
         <field name="tz_offset" position="after">
           <field name='calendar' string='Caldendar' />
-          <field name='date_format' string='Date Format' />
         </field>
       </field>
     </record>
-
-
   </data>
 </odoo>

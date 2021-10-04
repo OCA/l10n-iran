@@ -1,7 +1,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Iran - Base",
+    "name": "Iran - Employee Contracts",
     "version": "14.0.3.0.0",
     "author": "Fadoo, Odoo Community Association (OCA)",
     "maintainer": ["saeed-raesi"],
@@ -9,8 +9,8 @@
     "license": "AGPL-3",
     "category": "l10n/Technical",
     "summary": "Iran Localization",
-    "depends": ["base", "account"],
-    "data": ["views/user_preferences.xml", "views/partner_preferences.xml"],
+    "depends": ["hr_contract"],
+    "data": ["views/hr_contract_view.xml"],
     "external_dependencies": {
         "python": ["jdatetime"],
     },
