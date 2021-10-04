@@ -37,7 +37,7 @@ msgid "l10n"
 msgstr "بومی سازی"
 
 #. module: base
-#: model:ir.module.module,shortdesc:base.l10n_ir_base
+#: model:ir.module.module,shortdesc:base.module_l10n_ir_base
 msgid "Iran - Base"
 msgstr "ایران - پایه"
 
@@ -62,3 +62,18 @@ msgstr "تقویم"
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__calendar
 msgid "Calendar"
 msgstr "تقویم"
+
+#. module: l10n_ir_base
+#: model_terms:ir.ui.view,arch_db:l10n_ir_base.res_partner_form_inherit_ir
+msgid "Company Registry"
+msgstr "شماره ثبت شرکت"
+
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__code
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__l10n_ir_national_code
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__code
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__l10n_ir_national_code
+msgid "Natinal Code"
+msgstr "کد ملی"
+
