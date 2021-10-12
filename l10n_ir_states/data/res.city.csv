@@ -1,0 +1,3 @@
+id,country_id:id,state_id:id,name
+city_ir_1000000,base.ir,l10n_ir_states.state_ir_10,تهران
+city_ir_1003000,base.ir,l10n_ir_states.state_ir_10,دماوند
