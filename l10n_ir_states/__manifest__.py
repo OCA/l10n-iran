@@ -1,6 +1,6 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
-    "name": "Iran Country States",
+    "name": "Iran - Country States",
     "category": "l10n/Technical",
     "summary": "Iran Localization",
     "version": "14.0.3.0.0",
