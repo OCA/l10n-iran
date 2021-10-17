@@ -1,0 +1,7 @@
+id,country_id:id,state_id:id,name
+city_ir_1000000,base.ir,l10n_ir_states.state_ir_10,تهران
+city_ir_1003000,base.ir,l10n_ir_states.state_ir_10,دماوند
+city_ir_1200000,base.ir,l10n_ir_states.state_ir_12,ساری
+city_ir_1208901,base.ir,l10n_ir_states.state_ir_12,مرودشت
+city_ir_1301000,base.ir,l10n_ir_states.state_ir_13,تبریز
+city_ir_1401000,base.ir,l10n_ir_states.state_ir_14,ارومیه
