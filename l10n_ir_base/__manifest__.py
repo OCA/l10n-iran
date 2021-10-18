@@ -8,7 +8,7 @@
     "website": "https://github.com/OCA/l10n-iran",
     "license": "AGPL-3",
     "category": "l10n/Technical",
-    "summary": "Iran Localization",
+    "summary": "Iran Base Calendar",
     "depends": ["base", "account"],
     "data": ["views/user_preferences.xml", "views/partner_preferences.xml"],
     "external_dependencies": {
