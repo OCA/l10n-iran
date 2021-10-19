@@ -15,7 +15,13 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ir_base](l10n_ir_base/) | 14.0.3.0.0 |  [![Saeed-Raeisi](https://github.com/saeed-raeisi.png?size=30px)](https://github.com/saeed-raeisi) | Iran Base Calendar
+[l10n_ir_hr_contract](l10n_ir_hr_contract/) | 14.0.3.0.0 |  [![Saeed-Raeisi](https://github.com/saeed-raeisi.png?size=30px)](https://github.com/saeed-raeisi) | Iran Hr Contract
+[l10n_ir_states](l10n_ir_states/) | 14.0.3.0.0 |  [![Saeed-Raeisi](https://github.com/saeed-raeisi.png?size=30px)](https://github.com/saeed-raeisi) | Add Iran States and Cities
 
 [//]: # (end addons)
 
