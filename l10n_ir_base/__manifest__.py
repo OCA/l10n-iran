@@ -10,7 +10,11 @@
     "category": "Localization/Iran",
     "summary": "Iran Base Calendar",
     "depends": ["base", "account"],
-    "data": ["views/res_lang_form.xml", "views/res_partner_form.xml", "views/res_user_form.xml"],
+    "data": [
+        "views/res_lang_form.xml",
+        "views/res_partner_form.xml",
+        "views/res_user_form.xml",
+    ],
     "external_dependencies": {
         "python": ["jdatetime"],
     },

@@ -13,7 +13,8 @@ class AccountJournal(models.Model):
     _inherit = "account.journal"
 
     def get_bar_graph_datas(self):
-        if self.env.user.calendar == "gregorian":
+        calendar = self.env["res.lang"]._lang_get(self.env.user.lang).calendar
+        if calendar == "gregorian":
             return super(AccountJournal, self).get_bar_graph_datas()
         data = []
         today = fields.Datetime.now(self)

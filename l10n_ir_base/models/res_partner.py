@@ -7,7 +7,3 @@ class ResPartner(models.Model):
     l10n_ir_national_code = fields.Char(
         string="Natinal Code", size=11, help="National code used for iran."
     )
-
-
-
-
