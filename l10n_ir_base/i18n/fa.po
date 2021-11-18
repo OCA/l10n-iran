@@ -6,60 +6,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-25 11:30+0000\n"
-"PO-Revision-Date: 2021-09-25 15:01+0330\n"
+"POT-Creation-Date: 2021-11-18 09:28+0000\n"
+"PO-Revision-Date: 2021-11-18 09:28+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
-"Language: fa\n"
-"X-Generator: Poedit 3.0\n"
-
-#. module: base
-#: model:ir.module.module,summary:base.l10n_ir_base
-msgid ""
-"\n"
-"Iran Localization"
-msgstr "بومی سازی ایران"
-
-#. module: base
-#: model:ir.module.module,description:base.l10n_ir_base
-msgid ""
-"\n"
-"Iran Localization\n"
-msgstr "بومی سازی ایران"
-
-#. module: base
-#: model:ir.module.category,name:base.module_category_l10n
-msgid "l10n"
-msgstr "بومی سازی"
-
-#. module: base
-#: model:ir.module.module,shortdesc:base.module_l10n_ir_base
-msgid "Iran - Base"
-msgstr "ایران - پایه"
 
 #. module: l10n_ir_base
-#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__jalali
-msgid "Jalali (Persian) Calendar"
-msgstr "تقویم شمسی (جلالی)"
+#: model:ir.model,name:l10n_ir_base.model_base
+msgid "Base"
+msgstr "پایه"
 
 
 #. module: l10n_ir_base
-#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__gregorian
-msgid "Gregorian Calendar"
-msgstr "تقویم میلادی"
-
-
-#. module: l10n_ir_base
-#: model_terms:ir.ui.view,arch_db:l10n_ir_base.persian_calendar_prefernces_form
-msgid "Caldendar"
-msgstr "تقویم"
-
-#. module: l10n_ir_base
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_lang__calendar
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__calendar
+#: model_terms:ir.ui.view,arch_db:l10n_ir_base.l10n_ir_res_lang_form
+#: model_terms:ir.ui.view,arch_db:l10n_ir_base.l10n_ir_res_user_form
 msgid "Calendar"
 msgstr "تقویم"
 
@@ -68,12 +34,97 @@ msgstr "تقویم"
 msgid "Company Registry"
 msgstr "شماره ثبت شرکت"
 
+#. module: l10n_ir_base
+#: model:ir.model,name:l10n_ir_base.model_res_partner
+msgid "Contact"
+msgstr "مخاطب"
 
 #. module: l10n_ir_base
-#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__code
+#: model:ir.model.fields,field_description:l10n_ir_base.field_account_journal__display_name
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_lang__display_name
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: l10n_ir_base
+#: code:addons/l10n_ir_base/models/account_journal_dashboard.py:0
+#, python-format
+msgid "Due"
+msgstr "برای انجام"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_lang__calendar__gregorian
+msgid "Gregorian Calendar"
+msgstr "تقویم میلادی"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,field_description:l10n_ir_base.field_account_journal__id
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_lang__id
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_lang__calendar__jalali
+msgid "Jalali (Persian) Calendar"
+msgstr "تقویم شمسی"
+
+#. module: l10n_ir_base
+#: model:ir.model,name:l10n_ir_base.model_account_journal
+msgid "Journal"
+msgstr "دفتر"
+
+#. module: l10n_ir_base
+#: model:ir.model,name:l10n_ir_base.model_res_lang
+msgid "Languages"
+msgstr "زبان ها"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,field_description:l10n_ir_base.field_account_journal____last_update
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_lang____last_update
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner____last_update
+msgid "Last Modified on"
+msgstr "آخرین تغییر در"
+
+#. module: l10n_ir_base
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__l10n_ir_national_code
-#: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__code
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__l10n_ir_national_code
 msgid "Natinal Code"
 msgstr "کد ملی"
 
+#. module: l10n_ir_base
+#: model:ir.model.fields,help:l10n_ir_base.field_res_partner__l10n_ir_national_code
+#: model:ir.model.fields,help:l10n_ir_base.field_res_users__l10n_ir_national_code
+msgid "National code used for iran."
+msgstr "کدملی برای ایران"
+
+#. module: l10n_ir_base
+#: code:addons/l10n_ir_base/models/account_journal_dashboard.py:0
+#, python-format
+msgid "Not Due"
+msgstr "انجام نشده"
+
+#. module: l10n_ir_base
+#: code:addons/l10n_ir_base/models/account_journal_dashboard.py:0
+#, python-format
+msgid "Sample data"
+msgstr "داده نمایشی"
+
+#. module: l10n_ir_base
+#: code:addons/l10n_ir_base/models/account_journal_dashboard.py:0
+#, python-format
+msgid "This Week"
+msgstr "هفته جاری"
+
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,help:l10n_ir_base.field_res_users__calendar
+msgid "user current calendar"
+msgstr "تقویم فعلی کاربر"
+
+
+#. module: l10n_ir_base
+#: code:addons/l10n_ir_base/models/res_user.py:0
+#, python-format
+msgid "jalali"
+msgstr "تقویم شمسی"

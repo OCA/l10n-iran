@@ -31,7 +31,8 @@ class BaseModelExtend(models.AbstractModel):
 
     @api.model
     def _read_group_format_result(self, data, annotated_groupbys, groupby, domain):
-        if self.env.user.calendar == "gregorian":
+        calendar = self.env['res.lang']._lang_get(self.env.user.lang).calendar
+        if calendar == "gregorian":
             return super(BaseModelExtend, self)._read_group_format_result(
                 data, annotated_groupbys, groupby, domain
             )

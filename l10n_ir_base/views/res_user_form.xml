@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
   <data>
-    <record model="ir.ui.view" id="persian_calendar_prefernces_form">
+    <record model="ir.ui.view" id="l10n_ir_res_user_form">
       <field name="name">User Prefernces</field>
       <field name="model">res.users</field>
       <field name="inherit_id" ref="base.view_users_form_simple_modif" />
       <field name="arch" type="xml">
-        <field name="tz_offset" position="after">
-          <field name='calendar' string='Caldendar' />
+        <field name="tz" position="before">
+          <field name='calendar' string='Calendar' class="text-primary" readonly="1" />
         </field>
       </field>
     </record>
