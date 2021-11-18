@@ -89,7 +89,7 @@ repos:
       - id: check-symlinks
       - id: check-xml
       - id: mixed-line-ending
-        args: ["--fix=lf"]
+        args: ["--fix=auto"]
   - repo: https://github.com/asottile/pyupgrade
     rev: v2.7.2
     hooks:

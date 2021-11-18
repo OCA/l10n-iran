@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!-- pylint:disable=file-not-used -->
 <odoo>
-  <data>
     <record model="ir.ui.view" id="l10n_ir_res_user_form">
       <field name="name">User Prefernces</field>
       <field name="model">res.users</field>
@@ -11,5 +11,4 @@
         </field>
       </field>
     </record>
-  </data>
 </odoo>
