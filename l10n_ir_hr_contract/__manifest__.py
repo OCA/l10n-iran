@@ -7,7 +7,7 @@
     "maintainer": ["saeed-raesi"],
     "website": "https://github.com/OCA/l10n-iran",
     "license": "AGPL-3",
-    "category": "Localization/Iran",
+    "category": "l10n/Technical",
     "summary": "Iran Hr Contract",
     "depends": ["hr_contract"],
     "data": ["views/hr_contract_view.xml"],
