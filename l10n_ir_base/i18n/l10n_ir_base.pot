@@ -6,16 +6,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-25 11:30+0000\n"
-"PO-Revision-Date: 2021-09-25 15:01+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
-"X-Generator: Poedit 3.0\n"
 
 #. module: l10n_ir_base
 #: model:ir.model,name:l10n_ir_base.model_base
@@ -25,17 +21,17 @@ msgstr ""
 #. module: l10n_ir_base
 #: model_terms:ir.ui.view,arch_db:l10n_ir_base.persian_calendar_prefernces_form
 msgid "Caldendar"
-msgstr "تقویم"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__calendar
 msgid "Calendar"
-msgstr "تقویم"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model_terms:ir.ui.view,arch_db:l10n_ir_base.res_partner_form_inherit_ir
 msgid "Company Registry"
-msgstr "شماره ثبت شرکت"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model,name:l10n_ir_base.model_res_partner
@@ -58,7 +54,7 @@ msgstr ""
 #. module: l10n_ir_base
 #: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__gregorian
 msgid "Gregorian Calendar"
-msgstr "تقویم میلادی"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model.fields,field_description:l10n_ir_base.field_account_journal__id
@@ -70,7 +66,7 @@ msgstr ""
 #. module: l10n_ir_base
 #: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__jalali
 msgid "Jalali (Persian) Calendar"
-msgstr "تقویم شمسی (جلالی)"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model,name:l10n_ir_base.model_account_journal
@@ -87,13 +83,12 @@ msgstr ""
 #. module: l10n_ir_base
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__l10n_ir_national_code
 msgid "Natinal Code"
-msgstr "کد ملی"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__l10n_ir_national_code
-#, fuzzy
 msgid "National Code"
-msgstr "کد ملی"
+msgstr ""
 
 #. module: l10n_ir_base
 #: model:ir.model.fields,help:l10n_ir_base.field_res_partner__l10n_ir_national_code
@@ -123,19 +118,3 @@ msgstr ""
 #: model:ir.model,name:l10n_ir_base.model_res_users
 msgid "Users"
 msgstr ""
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization\n"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid "l10n"
-#~ msgstr "بومی سازی"
-
-#~ msgid "Iran - Base"
-#~ msgstr "ایران - پایه"
