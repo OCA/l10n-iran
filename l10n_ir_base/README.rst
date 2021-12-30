@@ -26,7 +26,7 @@ Iran - Base
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
 This module changes all date labels to Jalali.
-And creates a national ID for each person(user, partner)
+And creates a national ID for each person)(user, partner)
 
 **Table of contents**
 
@@ -36,7 +36,7 @@ And creates a national ID for each person(user, partner)
 Installation
 ============
 
-**Persian**
+**Persina**
 
 این کتابخانه باید نصب شود jdatetime
 
@@ -59,7 +59,7 @@ Usage
 
 **Persian**
 
-    در پروفایل هر کاربر امکان تنظیم تقویم میلادی و شمسی فراهم میگردد
+    در پروفایل هر کاربر امکان تنظیم تقویم میلادی و شمسی قراهم میگردد
 
 Bug Tracker
 ===========
