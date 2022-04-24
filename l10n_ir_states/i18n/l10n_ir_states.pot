@@ -6,16 +6,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-25 11:30+0000\n"
-"PO-Revision-Date: 2021-09-25 15:01+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
-"X-Generator: Poedit 3.0\n"
 
 #. module: l10n_ir_states
 #: model:res.city,name:l10n_ir_states.city_ir_1401000
@@ -46,19 +42,3 @@ msgstr ""
 #: model:res.city,name:l10n_ir_states.city_ir_1208901
 msgid "مرودشت"
 msgstr ""
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization\n"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid "l10n"
-#~ msgstr "بومی سازی"
-
-#~ msgid "Iran - Country States"
-#~ msgstr "ایران - شهر های ایران"
