@@ -55,6 +55,9 @@ msgstr "برای انجام"
 
 #. module: l10n_ir_base
 #: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_lang__calendar__gregorian
+
+#. module: l10n_ir_base
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__gregorian
 msgid "Gregorian Calendar"
 msgstr "تقویم میلادی"
 
@@ -66,9 +69,9 @@ msgid "ID"
 msgstr "شناسه"
 
 #. module: l10n_ir_base
-#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_lang__calendar__jalali
+#: model:ir.model.fields.selection,name:l10n_ir_base.selection__res_users__calendar__jalali
 msgid "Jalali (Persian) Calendar"
-msgstr "تقویم شمسی"
+msgstr "تقویم شمسی (جلالی)"
 
 #. module: l10n_ir_base
 #: model:ir.model,name:l10n_ir_base.model_account_journal
@@ -87,8 +90,8 @@ msgstr "زبان ها"
 msgid "Last Modified on"
 msgstr "آخرین تغییر در"
 
+
 #. module: l10n_ir_base
-#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__l10n_ir_national_code
 #: model:ir.model.fields,field_description:l10n_ir_base.field_res_users__l10n_ir_national_code
 msgid "Natinal Code"
 msgstr "کد ملی"
@@ -98,6 +101,16 @@ msgstr "کد ملی"
 #: model:ir.model.fields,help:l10n_ir_base.field_res_users__l10n_ir_national_code
 msgid "National code used for iran."
 msgstr "کدملی برای ایران"
+
+#: model:ir.model.fields,field_description:l10n_ir_base.field_res_partner__l10n_ir_national_code
+msgid "National Code"
+msgstr "کد ملی"
+
+#. module: l10n_ir_base
+#: model:ir.model.fields,help:l10n_ir_base.field_res_partner__l10n_ir_national_code
+#: model:ir.model.fields,help:l10n_ir_base.field_res_users__l10n_ir_national_code
+msgid "National code used for iran."
+msgstr ""
 
 #. module: l10n_ir_base
 #: code:addons/l10n_ir_base/models/account_journal_dashboard.py:0
@@ -129,3 +142,10 @@ msgstr "تقویم فعلی کاربر"
 #, python-format
 msgid "jalali"
 msgstr "تقویم شمسی"
+=======
+msgstr ""
+
+#. module: l10n_ir_base
+#: model:ir.model,name:l10n_ir_base.model_res_users
+msgid "Users"
+msgstr ""
