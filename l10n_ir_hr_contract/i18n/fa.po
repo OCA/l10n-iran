@@ -77,6 +77,15 @@ msgstr "فوق العاده حق جذب"
 msgid "House Allowance"
 msgstr "کمک هزینه مسکن"
 
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract____last_update
+msgid "Last Modified on"
+msgstr "آخرین تاریخ ویرایش"
 
 #. module: l10n_ir_hr_contract
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_life_insurance
@@ -147,6 +156,3 @@ msgstr "بیمه تکمیلی"
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_technical_bonus
 msgid "Technical Bonus"
 msgstr "پاداش فنی"
-
-
-
