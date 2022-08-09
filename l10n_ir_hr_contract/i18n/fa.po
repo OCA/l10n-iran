@@ -10,12 +10,37 @@ msgstr ""
 "PO-Revision-Date: 2021-09-25 15:01+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
+"Language: fa\n"
 "X-Generator: Poedit 3.0\n"
+
+#. module: base
+#: model:ir.module.module,summary:base.l10n_ir_hr_contract
+msgid ""
+"\n"
+"Iran Localization"
+msgstr "بومی سازی ایران"
+
+#. module: base
+#: model:ir.module.module,description:base.l10n_ir_hr_contract
+msgid ""
+"\n"
+"Iran Localization\n"
+msgstr "بومی سازی ایران"
+
+#. module: base
+#: model:ir.module.category,name:base.module_category_l10n
+msgid "l10n"
+msgstr "بومی سازی"
+
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_l10n_ir_hr_contract
+msgid "Iran - Employee Contracts"
+msgstr "ایران - قراردادهای کارمندی"
+
 
 #. module: l10n_ir_hr_contract
 #: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.hr_contract_form_additional_allowance
@@ -55,12 +80,12 @@ msgstr "کمک هزینه مسکن"
 #. module: l10n_ir_hr_contract
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: l10n_ir_hr_contract
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "آخرین تاریخ ویرایش"
 
 #. module: l10n_ir_hr_contract
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_life_insurance
@@ -131,19 +156,3 @@ msgstr "بیمه تکمیلی"
 #: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_technical_bonus
 msgid "Technical Bonus"
 msgstr "پاداش فنی"
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization\n"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid "l10n"
-#~ msgstr "بومی سازی"
-
-#~ msgid "Iran - Employee Contracts"
-#~ msgstr "ایران - قراردادهای کارمندی"
