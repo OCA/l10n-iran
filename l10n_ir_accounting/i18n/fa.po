@@ -10,10 +10,12 @@ msgstr ""
 "PO-Revision-Date: 2022-08-09 09:19+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: \n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
+"X-Generator: Poedit 3.0\n"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_ir_accounting
@@ -22,8 +24,9 @@ msgstr "ایران - جدول حساب"
 
 #. module: l10n_ir_accounting
 #: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_expense_base
+#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_expense_vat
 msgid "1. Standard rated expenses"
-msgstr "۱. هزینه های رتبه بندی استاندارد"
+msgstr "1. هزینه های رتبه بندی استاندارد"
 
 #. module: l10n_ir_accounting
 #: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_expense_base
@@ -45,11 +48,6 @@ msgstr "1. فروش استاندارد (پایه)"
 #: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_sales_vat
 msgid "1. Standard rated sales (Tax)"
 msgstr "1. فروش استاندارد (مالیات)"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_expense_vat
-msgid "1. Standard rated expenses"
-msgstr "1. هزینه های استاندارد"
 
 #. module: l10n_ir_accounting
 #: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_expense_vat
