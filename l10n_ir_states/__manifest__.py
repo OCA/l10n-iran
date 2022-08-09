@@ -1,7 +1,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Iran - Country States",
-    "category": "l10n/Technical",
+    "category": "Localization/Iran",
     "version": "14.0.3.0.0",
     "author": "Fadoo, Odoo Community Association (OCA)",
     "maintainer": ["saeed-raesi"],
