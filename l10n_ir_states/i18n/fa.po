@@ -1,3 +1,4 @@
+
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* l10n_ir_states
@@ -10,55 +11,33 @@ msgstr ""
 "PO-Revision-Date: 2021-09-25 15:01+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: \n"
+"Language: fa\n"
 "X-Generator: Poedit 3.0\n"
 
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1401000
-msgid "ارومیه"
-msgstr ""
+#. module: base
+#: model:ir.module.module,summary:base.l10n_ir_states
+msgid ""
+"\n"
+"Iran Localization"
+msgstr "بومی سازی ایران"
 
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1301000
-msgid "تبریز"
-msgstr ""
+#. module: base
+#: model:ir.module.module,description:base.l10n_ir_states
+msgid ""
+"\n"
+"Iran Localization\n"
+msgstr "بومی سازی ایران"
 
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1000000
-msgid "تهران"
-msgstr ""
+#. module: base
+#: model:ir.module.category,name:base.module_category_l10n
+msgid "l10n"
+msgstr "بومی سازی"
 
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1003000
-msgid "دماوند"
-msgstr ""
-
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1200000
-msgid "ساری"
-msgstr ""
-
-#. module: l10n_ir_states
-#: model:res.city,name:l10n_ir_states.city_ir_1208901
-msgid "مرودشت"
-msgstr ""
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid ""
-#~ "\n"
-#~ "Iran Localization\n"
-#~ msgstr "بومی سازی ایران"
-
-#~ msgid "l10n"
-#~ msgstr "بومی سازی"
-
-#~ msgid "Iran - Country States"
-#~ msgstr "ایران - شهر های ایران"
+#. module: base
+#: model:ir.module.module,shortdesc:base.module_l10n_ir_states
+msgid "Iran - Country States"
+msgstr "ایران - شهر های ایران"
