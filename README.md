@@ -20,6 +20,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[l10n_ir_accounting](l10n_ir_accounting/) | 14.0.3.0.0 |  | Iran Accounting Module ============================ iran accounting chart and localization. Also: - activates a number of regional currencies. - sets up Iran taxes.
 [l10n_ir_base](l10n_ir_base/) | 14.0.3.0.0 |  | Iran Base Calendar
 [l10n_ir_hr_contract](l10n_ir_hr_contract/) | 14.0.3.0.0 |  | Iran Hr Contract
 [l10n_ir_states](l10n_ir_states/) | 14.0.3.0.0 |  | Add Iran States and Cities
