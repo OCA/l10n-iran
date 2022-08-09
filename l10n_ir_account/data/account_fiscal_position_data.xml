@@ -4,7 +4,8 @@
         <!-- Fiscal Position Templates -->
         <record
             id="fiscal_position_template_1"
-            model="account.fiscal.position.template">
+            model="account.fiscal.position.template"
+        >
             <field name="name">Iran</field>
             <field name="auto_apply" eval="True" />
             <field name="country_id" ref="base.ir" />
