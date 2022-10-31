@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="hr_contract_form_additional_allowance" model="ir.ui.view">
+        <field name="name">hr.contract.view.additional.allowance</field>
+        <field name="model">hr.contract</field>
+        <field name="inherit_id" ref="hr_contract.hr_contract_view_form" />
+        <field name="arch" type="xml">
+            <xpath expr="//group[@name='salary']" position="inside">
+
+                <label for="l10n_ir_daily_wages" />
+                <div class="o_row" name="l10n_ir_daily_wages">
+                    <field name="l10n_ir_daily_wages" nolabel="1" />
+                    <span>/ day</span>
+                </div>
+
+                <label for="l10n_ir_seniority_benefits" />
+                <div class="o_row" name="l10n_ir_seniority_benefits">
+                    <field name="l10n_ir_seniority_benefits" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_house_allowance" />
+                <div class="o_row" name="l10n_ir_house_allowance">
+                    <field name="l10n_ir_house_allowance" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_grocery_allowance" />
+                <div class="o_row" name="l10n_ir_grocery_allowance">
+                    <field name="l10n_ir_grocery_allowance" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_child_allowance" />
+                <div class="o_row" name="l10n_ir_child_allowance">
+                    <field name="l10n_ir_child_allowance" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_hiring_bonus" />
+                <div class="o_row" name="l10n_ir_hiring_bonus">
+                    <field name="l10n_ir_hiring_bonus" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_responsibility_bonus" />
+                <div class="o_row" name="l10n_ir_responsibility_bonus">
+                    <field name="l10n_ir_responsibility_bonus" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_technical_bonus" />
+                <div class="o_row" name="l10n_ir_technical_bonus">
+                    <field name="l10n_ir_technical_bonus" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_supplement_insurance" />
+                <div class="o_row" name="l10n_ir_supplement_insurance">
+                    <field name="l10n_ir_supplement_insurance" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+
+                <label for="l10n_ir_life_insurance" />
+                <div class="o_row" name="l10n_ir_life_insurance">
+                    <field name="l10n_ir_life_insurance" nolabel="1" />
+                    <span>/ month</span>
+                </div>
+            </xpath>
+        </field>
+    </record>
+
+</odoo>
