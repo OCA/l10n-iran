@@ -17,74 +17,13 @@ msgstr ""
 "Plural-Forms: \n"
 "X-Generator: Poedit 3.0\n"
 
-#. module: base
-#: model:ir.module.module,shortdesc:base.module_l10n_ir_accounting
-msgid "Iran - Accounting"
-msgstr "ایران - جدول حساب"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_expense_base
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_expense_vat
-msgid "1. Standard rated expenses"
-msgstr "1. هزینه های رتبه بندی استاندارد"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_expense_base
-msgid "1. Standard rated expenses (Base)"
-msgstr "1. هزینه های رتبه بندی استاندارد (پایه)"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_sales_base
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_standard_rated_sales_vat
-msgid "1. Standard rated sales"
-msgstr "1. فروش  استاندارد"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_sales_base
-msgid "1. Standard rated sales (Base)"
-msgstr "1. فروش استاندارد (پایه)"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_sales_vat
-msgid "1. Standard rated sales (Tax)"
-msgstr "1. فروش استاندارد (مالیات)"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,tag_name:l10n_ir_accounting.tax_report_line_standard_rated_expense_vat
-msgid "1. Standard rated expenses (Tax)"
-msgstr "1. هزینه های استاندارد (مالیات)"
-
-#. module: l10n_ir_accounting
-#: model:account.fiscal.position,name:l10n_ir_accounting.1_fiscal_position_template_1
-#: model:account.fiscal.position.template,name:l10n_ir_accounting.fiscal_position_template_1
-msgid "Iran"
-msgstr "ایران"
-
-#. module: l10n_ir_accounting
-#: model:account.chart.template,name:l10n_ir_accounting.l10n_ir_chart_template
-msgid "Iran Chart Of Account"
-msgstr "جدول حساب ایران"
-
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_net_vat_due
-msgid "Net VAT Due"
-msgstr "خالص مالیات ارزش افزوده"
-
 #. module: l10n_ir_accounting
 #: model:account.tax.group,name:l10n_ir_accounting.ir_tax_group_0
 msgid "VAT 0%"
 msgstr "صفر درصد مالیات ارزش افزوده"
 
 #. module: l10n_ir_accounting
-#: model:account.tax,description:l10n_ir_accounting.1_ir_purchase_tax_9
-#: model:account.tax,description:l10n_ir_accounting.1_ir_sale_tax_9
-#: model:account.tax,name:l10n_ir_accounting.1_ir_purchase_tax_9
-#: model:account.tax,name:l10n_ir_accounting.1_ir_sale_tax_9
 #: model:account.tax.group,name:l10n_ir_accounting.ir_tax_group_9
-#: model:account.tax.template,description:l10n_ir_accounting.ir_purchase_tax_9
-#: model:account.tax.template,description:l10n_ir_accounting.ir_sale_tax_9
-#: model:account.tax.template,name:l10n_ir_accounting.ir_purchase_tax_9
-#: model:account.tax.template,name:l10n_ir_accounting.ir_sale_tax_9
 msgid "VAT 9%"
 msgstr "۹ درصد مالیات ارزش افزوده"
 
@@ -93,22 +32,44 @@ msgstr "۹ درصد مالیات ارزش افزوده"
 msgid "VAT Exempted"
 msgstr "معاف"
 
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_base_all_expense
-msgid "VAT on Expenses and all other Inputs (Base)"
-msgstr "مالیات ارزش افزوده هزینه و سایر ورودی ها (پایه)"
+#~ msgid "Iran - Accounting"
+#~ msgstr "ایران - جدول حساب"
 
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_vat_all_expense
-msgid "VAT on Expenses and all other Inputs (Tax)"
-msgstr "مالیات ارزش افزوده هزینه و سایر ورودی ها (مالیات)"
+#~ msgid "1. Standard rated expenses"
+#~ msgstr "1. هزینه های رتبه بندی استاندارد"
 
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_base_all_sales
-msgid "VAT on Sales and all other Outputs (Base)"
-msgstr "مالیات ارزش افزوده فروش و سایر خروجی ها (پایه)"
+#~ msgid "1. Standard rated expenses (Base)"
+#~ msgstr "1. هزینه های رتبه بندی استاندارد (پایه)"
 
-#. module: l10n_ir_accounting
-#: model:account.tax.report.line,name:l10n_ir_accounting.tax_report_line_vat_all_sales
-msgid "VAT on Sales and all other Outputs (Tax)"
-msgstr "مالیات ارزش افزوده فروش و سایر خروجی ها (مالیات)"
+#~ msgid "1. Standard rated sales"
+#~ msgstr "1. فروش  استاندارد"
+
+#~ msgid "1. Standard rated sales (Base)"
+#~ msgstr "1. فروش استاندارد (پایه)"
+
+#~ msgid "1. Standard rated sales (Tax)"
+#~ msgstr "1. فروش استاندارد (مالیات)"
+
+#~ msgid "1. Standard rated expenses (Tax)"
+#~ msgstr "1. هزینه های استاندارد (مالیات)"
+
+#~ msgid "Iran"
+#~ msgstr "ایران"
+
+#~ msgid "Iran Chart Of Account"
+#~ msgstr "جدول حساب ایران"
+
+#~ msgid "Net VAT Due"
+#~ msgstr "خالص مالیات ارزش افزوده"
+
+#~ msgid "VAT on Expenses and all other Inputs (Base)"
+#~ msgstr "مالیات ارزش افزوده هزینه و سایر ورودی ها (پایه)"
+
+#~ msgid "VAT on Expenses and all other Inputs (Tax)"
+#~ msgstr "مالیات ارزش افزوده هزینه و سایر ورودی ها (مالیات)"
+
+#~ msgid "VAT on Sales and all other Outputs (Base)"
+#~ msgstr "مالیات ارزش افزوده فروش و سایر خروجی ها (پایه)"
+
+#~ msgid "VAT on Sales and all other Outputs (Tax)"
+#~ msgstr "مالیات ارزش افزوده فروش و سایر خروجی ها (مالیات)"
