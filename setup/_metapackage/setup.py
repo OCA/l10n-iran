@@ -4,17 +4,17 @@ with open('VERSION.txt', 'r') as f:
     version = f.read().strip()
 
 setuptools.setup(
-    name="odoo14-addons-oca-l10n-iran",
+    name="odoo-addons-oca-l10n-iran",
     description="Meta package for oca-l10n-iran Odoo addons",
     version=version,
     install_requires=[
-        'odoo14-addon-l10n_ir_accounting',
-        'odoo14-addon-l10n_ir_hr_contract',
-        'odoo14-addon-l10n_ir_states',
+        'odoo-addon-l10n_ir_accounting>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_ir_hr_contract>=16.0dev,<16.1dev',
+        'odoo-addon-l10n_ir_states>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
         'Framework :: Odoo',
-        'Framework :: Odoo :: 14.0',
+        'Framework :: Odoo :: 16.0',
     ]
 )
