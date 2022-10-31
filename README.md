@@ -17,7 +17,13 @@ TODO: add repo description.
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ir_accounting](l10n_ir_accounting/) | 16.0.1.0.0 |  | Iran Accounting Module ============================ iran accounting chart and localization. Also: - activates a number of regional currencies. - sets up Iran taxes.
+[l10n_ir_hr_contract](l10n_ir_hr_contract/) | 16.0.1.0.0 |  | Iran Hr Contract
+[l10n_ir_states](l10n_ir_states/) | 16.0.1.0.0 |  | Add Iran States and Cities
 
 [//]: # (end addons)
 
