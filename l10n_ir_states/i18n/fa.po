@@ -1,0 +1,5528 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_ir_states
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-25 11:30+0000\n"
+"PO-Revision-Date: 2021-09-25 15:01+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.0\n"
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20043
+msgid "  رضوان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55017
+msgid " آستانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20080
+msgid " محمد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29001
+msgid "آب بر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88021
+msgid "آب پخش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16003
+msgid "آبادان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17022
+msgid "آباده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17019
+msgid "آباده طشك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88030
+msgid "آبدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10008
+msgid "آبسرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63006
+msgid "آبگرم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63007
+msgid "آبیک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13022
+msgid "آذرشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99006
+msgid "آرادان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20009
+msgid "آران و بیدگل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64001
+msgid "آزاد شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55001
+msgid "آستارا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44009
+msgid "آستانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44011
+msgid "آشتيان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21002
+msgid "آشخانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16004
+msgid "آغاجري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64017
+msgid "آق قلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12004
+msgid "آلاشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12006
+msgid "آمل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63008
+msgid "آوج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27006
+msgid "ابدانان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77017
+msgid "ابرکوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20002
+msgid "ابریشم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13045
+msgid "ابش احمد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10030
+msgid "ابعلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29003
+msgid "ابهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20003
+msgid "ابوزيد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23011
+msgid "ابوموسي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61018
+msgid "ابي بيگلو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19067
+msgid "احمد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77018
+msgid "احمدآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55016
+msgid "احمدسرگوراب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18001
+msgid "اختيارآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66033
+msgid "اديمي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44004
+msgid "اراك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10029
+msgid "ارجمند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63002
+msgid "ارداق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61002
+msgid "اردبيل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61022
+msgid "اردبيل،هير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20004
+msgid "اردستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25010
+msgid "اردل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77019
+msgid "اردکان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18002
+msgid "ارزونيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13063
+msgid "ارسباران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17023
+msgid "ارسنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27015
+msgid "اركواز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22016
+msgid "ارمرده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14001
+msgid "اروميه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16007
+msgid "اروندکنار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31004
+msgid "ارين شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18003
+msgid "ارگ جديد بم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26014
+msgid "ازنا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24019
+msgid "ازندریان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15029
+msgid "ازگله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17008
+msgid "استهبان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19063
+msgid "اسجيل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24002
+msgid "اسد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31008
+msgid "اسديه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31016
+msgid "اسفدن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21004
+msgid "اسفراین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63003
+msgid "اسفرورین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13020
+msgid "اسكو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15003
+msgid "اسلام آباد غرب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10006
+msgid "اسلام شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31003
+msgid "اسلاميه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27011
+msgid "اسمان اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66030
+msgid "اسپكه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26018
+msgid "اشترينان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49013
+msgid "اشتهارد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17036
+msgid "اشكنان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14014
+msgid "اشنويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77020
+msgid "اشکذر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20001
+msgid "اصفهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61004
+msgid "اصلاندوز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55018
+msgid "اطاقور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17062
+msgid "افزر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20006
+msgid "افوس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63004
+msgid "اقبالیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13049
+msgid "اقكند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17009
+msgid "اقليد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17075
+msgid "اقليد،سده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26017
+msgid "الشتر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16005
+msgid "الوان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63005
+msgid "الوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25011
+msgid "الوني"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26011
+msgid "اليگودرز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88031
+msgid "امام حسن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55014
+msgid "املش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16033
+msgid "امیدیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99004
+msgid "امیرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12005
+msgid "امیرکلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19016
+msgid "انابد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18004
+msgid "انار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20007
+msgid "انارک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64020
+msgid "انبارالوم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18005
+msgid "انبرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18006
+msgid "اندوهجرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49010
+msgid "اندیشه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16006
+msgid "اندیمشک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13018
+msgid "اهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88032
+msgid "اهرام(تنگستان)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88018
+msgid "اهرم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17048
+msgid "اهل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16001
+msgid "اهواز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14026
+msgid "اواجيق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17038
+msgid "اوز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17071
+msgid "ايج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66006
+msgid "ايرانشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17056
+msgid "ايزد خواست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31013
+msgid "ايسك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27005
+msgid "ايلام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13019
+msgid "ايلخچي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64002
+msgid "اينچه برون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27001
+msgid "ايوان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14016
+msgid "ايواوغلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20005
+msgid "اژیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12021
+msgid "ایزدشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16025
+msgid "ایزه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20008
+msgid "ایمان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99005
+msgid "ایوانکی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17054
+msgid "باب انار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25008
+msgid "بابا حيدر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22022
+msgid "بابارشاني"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12001
+msgid "بابل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12007
+msgid "بابلسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19033
+msgid "باجگيران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19009
+msgid "باخرز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20010
+msgid "بادرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14032
+msgid "باروق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55020
+msgid "بازارجمعه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14009
+msgid "بازرگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13013
+msgid "باسمنج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28006
+msgid "باشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20011
+msgid "باغ بهادران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16008
+msgid "باغ ملک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49011
+msgid "باغستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18007
+msgid "باغين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18008
+msgid "بافت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77021
+msgid "بافق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10013
+msgid "باقرشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17052
+msgid "بالاده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22007
+msgid "بانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15025
+msgid "باينگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19012
+msgid "بايک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19007
+msgid "بجستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21001
+msgid "بجنورد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13044
+msgid "بخشايش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27007
+msgid "بدره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88001
+msgid "برازجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88009
+msgid "بردخون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18009
+msgid "بردسير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19019
+msgid "بردسکن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24021
+msgid "برزول"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20012
+msgid "برزک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20013
+msgid "برف انبار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55019
+msgid "بره سر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18010
+msgid "بروات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26007
+msgid "بروجرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25002
+msgid "بروجن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66011
+msgid "بزمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18011
+msgid "بزنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16011
+msgid "بستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13009
+msgid "بستان آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23010
+msgid "بستک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99007
+msgid "بسطام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31005
+msgid "بشرويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25007
+msgid "بلداجي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12009
+msgid "بلده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18012
+msgid "بم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66001
+msgid "بمپور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25012
+msgid "بن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13005
+msgid "بناب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13048
+msgid "بناب جديد(مرند)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17034
+msgid "بنارويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64003
+msgid "بناور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66008
+msgid "بنت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66031
+msgid "بنجار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16002
+msgid "بندر امام خمینی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55003
+msgid "بندر انزلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64018
+msgid "بندر ترکمن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23009
+msgid "بندر جاسک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23008
+msgid "بندر خمير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88013
+msgid "بندر دير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88016
+msgid "بندر ديلم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88007
+msgid "بندر ريگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23007
+msgid "بندر عباس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88004
+msgid "بندر كنگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23006
+msgid "بندر لنگه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16009
+msgid "بندر ماهشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88012
+msgid "بندر گناوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23015
+msgid "بندرچارك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64021
+msgid "بندرگز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88033
+msgid "بنک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77022
+msgid "بهاباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24020
+msgid "بهار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20015
+msgid "بهاران شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20016
+msgid "بهارستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16010
+msgid "بهبهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18013
+msgid "بهرمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12010
+msgid "بهشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17021
+msgid "بهمن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12008
+msgid "بهنمیر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22019
+msgid "بوئين سفلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20014
+msgid "بوئین و میاندشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17051
+msgid "بوانات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88002
+msgid "بوشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14011
+msgid "بوكان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10010
+msgid "بومهن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63009
+msgid "بویین زهرا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22003
+msgid "بيجار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19032
+msgid "بيدخت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31001
+msgid "بيرجند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17032
+msgid "بيرم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15016
+msgid "بيستون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17042
+msgid "بيضا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61003
+msgid "بيله سوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99008
+msgid "بیارجمند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63010
+msgid "بیدستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77025
+msgid "بیمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15008
+msgid "تازه آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14015
+msgid "تازه شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61014
+msgid "تازه كندانگوت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55004
+msgid "تالش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19008
+msgid "تايباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63011
+msgid "تاکستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13001
+msgid "تبريز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19005
+msgid "تربت جام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19004
+msgid "تربت حيدريه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13008
+msgid "ترك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13041
+msgid "تركمانچاي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13007
+msgid "تسوج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77024
+msgid "تفت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44003
+msgid "تفرش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14010
+msgid "تكاب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12050
+msgid "تنکابن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88020
+msgid "تنگ ارم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10001
+msgid "تهران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27018
+msgid "توحيد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20018
+msgid "تودشک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44025
+msgid "توره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24027
+msgid "تویسرکان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13026
+msgid "تيكمه داش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20019
+msgid "تیران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15013
+msgid "ثلاث"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66010
+msgid "جالق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16026
+msgid "جايزان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18015
+msgid "جبالبارز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20020
+msgid "جرقویه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61016
+msgid "جعفرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62003
+msgid "جعفريه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19013
+msgid "جغتاي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13034
+msgid "جلفا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88015
+msgid "جم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17025
+msgid "جنت شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20021
+msgid "جندق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19057
+msgid "جنگل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17003
+msgid "جهرم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10023
+msgid "جوادآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15004
+msgid "جوانرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24025
+msgid "جورقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20022
+msgid "جوشقان و کامو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25018
+msgid "جونقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17031
+msgid "جويم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18016
+msgid "جوپار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24024
+msgid "جوکار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12022
+msgid "جویبار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18017
+msgid "جيرفت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55027
+msgid "جیرنده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23005
+msgid "حاجي آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17013
+msgid "حاجي آباد(زرين دشت)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31018
+msgid "حاجي اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20026
+msgid "حبیب آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10017
+msgid "حسن آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18019
+msgid "حسين آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16023
+msgid "حسینیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49003
+msgid "حصارک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21008
+msgid "حصارگر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29005
+msgid "حلب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15018
+msgid "حميل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77023
+msgid "حمیدیا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16020
+msgid "حمیدیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20027
+msgid "حنا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16022
+msgid "حور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55026
+msgid "حويق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88028
+msgid "خارك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13055
+msgid "خاروانا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66005
+msgid "خاش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20028
+msgid "خالد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13053
+msgid "خامنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64025
+msgid "خانببين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18020
+msgid "خانوك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17046
+msgid "خاوران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63012
+msgid "خاک علی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29015
+msgid "خدابنده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13057
+msgid "خراجو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17069
+msgid "خرام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17012
+msgid "خرامه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26005
+msgid "خرم آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17065
+msgid "خرم بيد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63013
+msgid "خرم دشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29004
+msgid "خرمدره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16027
+msgid "خرمشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19023
+msgid "خرو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13029
+msgid "خسرو شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17007
+msgid "خشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55029
+msgid "خشکبیجار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77013
+msgid "خضرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31011
+msgid "خضري دشت بياض"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61007
+msgid "خلخال"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19021
+msgid "خليل اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12027
+msgid "خلیل شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13056
+msgid "خمارلو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55011
+msgid "خمام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44006
+msgid "خمين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20029
+msgid "خمینی شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17027
+msgid "خنج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44014
+msgid "خنداب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13040
+msgid "خواجه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19026
+msgid "خواف"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20030
+msgid "خوانسار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20031
+msgid "خور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20032
+msgid "خوراسگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20033
+msgid "خورزوق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88008
+msgid "خورموج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31012
+msgid "خوسف"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12028
+msgid "خوشرودپی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14006
+msgid "خوي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19084
+msgid "خير آباد تربت جام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19062
+msgid "خير آباد سبزوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12013
+msgid "دابودشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17029
+msgid "داراب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20034
+msgid "داران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17066
+msgid "داريان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88017
+msgid "دالكي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99009
+msgid "دامغان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20035
+msgid "دامنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63014
+msgid "دانه اصفهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44026
+msgid "داوداباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19040
+msgid "داورزان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17068
+msgid "دبيران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18021
+msgid "درب بهشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26012
+msgid "درب گنبد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21003
+msgid "درق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27002
+msgid "دره شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19034
+msgid "درود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20036
+msgid "درچه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19043
+msgid "درگز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23019
+msgid "درگهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12014
+msgid "دریاکنار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16014
+msgid "دزآب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16015
+msgid "دزفول و حومه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62004
+msgid "دستجرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20037
+msgid "دستگرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88026
+msgid "دشتستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88034
+msgid "دشتي(خورموج)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22027
+msgid "دلبران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26023
+msgid "دلقان(نورآباد)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64022
+msgid "دلند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88014
+msgid "دلوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44005
+msgid "دليجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44030
+msgid "دليجان،نراق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66029
+msgid "دلگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10012
+msgid "دماوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24022
+msgid "دمق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28009
+msgid "دنا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29009
+msgid "دندي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20039
+msgid "دهاقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23020
+msgid "دهباز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18022
+msgid "دهج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16013
+msgid "دهدز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28001
+msgid "دهدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20040
+msgid "دهق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27010
+msgid "دهلران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22026
+msgid "دهگلادن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22002
+msgid "دهگلان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26004
+msgid "دورود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13052
+msgid "دوزدوزان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66009
+msgid "دوست محمد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20038
+msgid "دولت آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19027
+msgid "دولت اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28003
+msgid "دوگنبدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88005
+msgid "دير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22020
+msgid "ديزج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28012
+msgid "ديشموك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88035
+msgid "ديلم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55023
+msgid "ديلمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22012
+msgid "ديواندره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22025
+msgid "ديواندره،زرينه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99010
+msgid "دیباج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20042
+msgid "دیزیچه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77012
+msgid "دیهوک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18023
+msgid "رابر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21011
+msgid "راز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44008
+msgid "رازقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63015
+msgid "رازمیان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66007
+msgid "راسك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16034
+msgid "رافی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12040
+msgid "رامسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16036
+msgid "رامشیر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16035
+msgid "رامهرمز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64026
+msgid "رامیان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55041
+msgid "رانکوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18024
+msgid "راور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18025
+msgid "راين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15009
+msgid "رباط"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19039
+msgid "رباط سنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10007
+msgid "رباط كريم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14021
+msgid "ربط"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49022
+msgid "رجائی شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55040
+msgid "رحیم آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24026
+msgid "رزن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20041
+msgid "رزوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55012
+msgid "رستم آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12042
+msgid "رستمکلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55002
+msgid "رشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19038
+msgid "رشتخوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55042
+msgid "رضوانشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19035
+msgid "رضويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61019
+msgid "رضي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18026
+msgid "رفسنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20044
+msgid "رهنان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15011
+msgid "روانسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19053
+msgid "روداب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23004
+msgid "رودان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18027
+#: model:res.city,name:l10n_ir_states.city_ir_55005
+msgid "رودبار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55043
+msgid "رودبنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55015
+msgid "رودسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10003
+msgid "رودهن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17050
+msgid "رونيز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12043
+msgid "رویان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10005
+msgid "ري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18028
+msgid "ريحان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88023
+msgid "ريز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19048
+msgid "ريوش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12041
+msgid "رینه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66004
+msgid "زابل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66021
+msgid "زابلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26006
+msgid "زاغه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17045
+msgid "زاهد شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66003
+msgid "زاهدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44007
+msgid "زاويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20045
+msgid "زاینده رود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17024
+msgid "زرقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18029
+msgid "زرند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44020
+msgid "زرنديه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13036
+msgid "زرنق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27017
+msgid "زرنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29017
+msgid "زرين آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29011
+msgid "زرين رود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22014
+msgid "زرينه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77016
+msgid "زرچ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12051
+msgid "زرگرمحله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20046
+msgid "زرین شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29006
+msgid "زنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13030
+msgid "زنوز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24028
+msgid "زنگنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18030
+msgid "زنگي آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31019
+msgid "زهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16045
+msgid "زهره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66012
+msgid "زهك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20047
+msgid "زواره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23022
+msgid "زيارتعلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18031
+msgid "زيد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63016
+msgid "زیبا شهر - محمدیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20048
+msgid "زیباشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55049
+msgid "زیباکنار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12052
+msgid "زیرآب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12044
+msgid "سادات شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12002
+msgid "ساري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16037
+msgid "سالند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25005
+msgid "سامان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24010
+msgid "سامن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49023
+msgid "ساوجبلاغ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44001
+msgid "ساوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19002
+msgid "سبزوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29013
+msgid "سجاس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17049
+msgid "سده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20050
+msgid "سده لنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15032
+msgid "سر پل ذهاب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19069
+msgid "سرآسياب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13037
+msgid "سراب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26001
+msgid "سراب دوره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27004
+msgid "سرابله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66015
+msgid "سراوان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31014
+msgid "سرايان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66026
+msgid "سرباز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31010
+msgid "سربيشه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12049
+msgid "سرخرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19022
+msgid "سرخس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64004
+msgid "سرخنکلاته"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99011
+msgid "سرخه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13028
+msgid "سردرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14004
+msgid "سردشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61009
+msgid "سرعين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15021
+msgid "سرمست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14027
+msgid "سرو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22008
+msgid "سروآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17044
+msgid "سروستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22013
+msgid "سريش آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18032
+msgid "سرچشمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24011
+msgid "سرکان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15026
+msgid "سطر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17043
+msgid "سعادت شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88010
+msgid "سعدآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19041
+msgid "سفيد سنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25019
+msgid "سفيددشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20051
+msgid "سفیدشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22005
+msgid "سقز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22024
+msgid "سقز،صاحب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19052
+msgid "سلامي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19042
+msgid "سلطان اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29016
+msgid "سلطانيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62005
+msgid "سلفچگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14003
+msgid "سلماس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12045
+msgid "سلمان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19066
+msgid "سلوگرد (محسن آباد)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99001
+msgid "سمنان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20053
+msgid "سمیرم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44013
+msgid "سنجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21013
+msgid "سنخواست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15010
+msgid "سنقر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22006
+msgid "سنندج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22023
+msgid "سنندج،شويشه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19006
+msgid "سنگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55044
+msgid "سنگر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31009
+msgid "سه قلعه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13046
+msgid "سهند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12046
+msgid "سوادکوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25015
+msgid "سودجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66022
+msgid "سوران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25024
+msgid "سورشجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17058
+msgid "سورمق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12048
+msgid "سورک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23016
+msgid "سوزا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16043
+msgid "سوسنگرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28011
+msgid "سوق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15030
+msgid "سومار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28005
+msgid "سي سخت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55046
+msgid "سياهکل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17040
+msgid "سيدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23003
+msgid "سيربک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18033
+msgid "سيرجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66023
+msgid "سيركان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13051
+msgid "سيس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14020
+msgid "سيلوانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64005
+msgid "سيمين شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14023
+msgid "سيمينه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13054
+msgid "سيه رود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14025
+msgid "سيه چشمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20049
+msgid "سپاهان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17076
+msgid "سپيدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26021
+msgid "سپيددشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63017
+msgid "سگز آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20052
+msgid "سگزی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63018
+msgid "سیردان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44016
+msgid "شازند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15024
+msgid "شاطر آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63019
+msgid "شال"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19028
+msgid "شانديز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49024
+msgid "شاهدشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77015
+msgid "شاهدیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99002
+msgid "شاهرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14007
+msgid "شاهين دژ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20054
+msgid "شاهین شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88025
+msgid "شبانكاره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13006
+msgid "شبستر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13033
+msgid "شربيان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13035
+msgid "شرفخانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10024
+msgid "شريف آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16039
+msgid "شریعتی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19011
+msgid "ششتمد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17070
+msgid "ششده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55006
+msgid "شفت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55045
+msgid "شلمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25006
+msgid "شلمزار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13043
+msgid "شندآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18034
+msgid "شهداد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18035
+msgid "شهربابك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19082
+msgid "شهرزو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44023
+msgid "شهرصنعتي ساوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20055
+msgid "شهرضا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25003
+msgid "شهركرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17057
+msgid "شهرپير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49025
+msgid "شهریار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99012
+msgid "شهمیرزاد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31017
+msgid "شوسف"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16041
+msgid "شوش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16042
+msgid "شوشتر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14012
+msgid "شوط"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21015
+msgid "شوقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22018
+msgid "شويشه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17002
+msgid "شيراز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16040
+msgid "شیبان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21014
+msgid "شیروان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12047
+msgid "شیرگاه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24012
+msgid "شیرین سو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22015
+msgid "صاحب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24009
+msgid "صالح آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10018
+msgid "صالح اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29010
+msgid "صانين قلعه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49008
+msgid "صباشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15014
+msgid "صحنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77014
+msgid "صدوق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17053
+msgid "صغاد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49009
+msgid "صفادشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17017
+msgid "صفاشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21012
+msgid "صفی آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13031
+msgid "صوفيان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55047
+msgid "صومعه سرا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16038
+msgid "صیدون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63020
+msgid "ضیاء آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55050
+msgid "ضیابر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29018
+msgid "طارم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25027
+msgid "طاقانك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20056
+msgid "طالخونچه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49026
+msgid "طالقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25030
+msgid "طالقانک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88024
+msgid "طاهري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77011
+msgid "طبس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19020
+msgid "طرقبه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88027
+msgid "عاليشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12003
+msgid "عباس آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13032
+msgid "عجب شير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88003
+msgid "عسلويه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20057
+msgid "عسگران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31006
+#: model:res.city,name:l10n_ir_states.city_ir_77008
+msgid "عشق آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19077
+msgid "عشق آباد مشهد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19061
+msgid "عشق آباد نيشابور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77007
+msgid "عقدا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17030
+msgid "علامرودشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20058
+msgid "علویجه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64019
+msgid "علي آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61017
+msgid "عنبران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44021
+msgid "غرق آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25017
+msgid "فارسان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23021
+msgid "فارغان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21005
+msgid "فاروج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18036
+msgid "فارياب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64023
+msgid "فاضل آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24003
+msgid "فامنین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17037
+msgid "فتح آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25020
+msgid "فرادبنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17047
+msgid "فراشبند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25016
+msgid "فرخ شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25029
+msgid "فرخشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31002
+msgid "فردوس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10015
+msgid "فردوسيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49014
+msgid "فردیس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24004
+msgid "فرسفج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44015
+msgid "فرمهين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19036
+msgid "فرهادگرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19064
+msgid "فريزي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19030
+msgid "فريمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20059
+msgid "فریدن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20060
+msgid "فریدونشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12015
+msgid "فریدونکنار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12016
+msgid "فریم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17010
+msgid "فسا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10026
+msgid "فشم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20061
+msgid "فلاورجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66017
+msgid "فنوج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18037
+msgid "فهرج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20062
+msgid "فولادشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55024
+msgid "فومن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14018
+msgid "فيرورق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26019
+msgid "فيروز آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17015
+msgid "فيروزآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10021
+msgid "فيروزكوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19024
+msgid "فيروزه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19037
+msgid "فيض اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23018
+msgid "فين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24005
+msgid "فیروزان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12020
+msgid "قائمشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31015
+msgid "قائن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17001
+msgid "قادرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19081
+msgid "قاسم اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21007
+msgid "قاضی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17018
+msgid "قانميه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49016
+msgid "قدس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19031
+msgid "قدمگاه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13050
+msgid "قره آغاج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19079
+msgid "قره جنگل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14024
+msgid "قره ضياءالدين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22010
+#: model:res.city,name:l10n_ir_states.city_ir_24023
+msgid "قروه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24007
+msgid "قروه درجزین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10031
+msgid "قرچک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15027
+msgid "قزانچي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63001
+msgid "قزوین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23002
+msgid "قشم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15007
+msgid "قصرشيرين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66019
+msgid "قصرقند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17035
+msgid "قطب آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16018
+msgid "قلعه تل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16017
+msgid "قلعه خواجه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28010
+msgid "قلعه رئيسي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18038
+msgid "قلعه گنج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19029
+msgid "قلندراباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62001
+msgid "قم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20063
+msgid "قمصر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62006
+msgid "قنوات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24006
+msgid "قهاوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20064
+msgid "قهدریجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44031
+msgid "قورچي باشي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14034
+msgid "قوشچي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19003
+msgid "قوچان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29008
+msgid "قيدار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17006
+msgid "قيروكارزين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17033
+msgid "كازرون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18039
+msgid "كاظم آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88019
+msgid "كاكي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22009
+msgid "كامياران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22017
+msgid "كاني سور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18040
+msgid "كبوترخان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15002
+msgid "كرمانشاه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15012
+msgid "كرند غرب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17067
+msgid "كره اي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14037
+msgid "كشاورز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13027
+msgid "كشكسراي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18041
+msgid "كشكونيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13042
+msgid "كلوانق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61015
+msgid "كلور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13038
+msgid "كليبر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44017
+msgid "كميجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17055
+msgid "كنارتخته"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66014
+msgid "كنارك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23014
+msgid "كنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15005
+msgid "كنگاور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10009
+msgid "كهريزك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62002
+msgid "كهك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18042
+msgid "كهنوج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17028
+msgid "كوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15019
+msgid "كوزران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26010
+msgid "كوناني"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18043
+msgid "كوهبنان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26002
+msgid "كوهدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25004
+msgid "كوهرنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10016
+msgid "كوهسار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25009
+msgid "كيان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18044
+msgid "كيانشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23013
+msgid "كيش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10027
+msgid "كيلان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17004
+msgid "لار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17020
+msgid "لارستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12032
+msgid "لاریجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24015
+msgid "لالجین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16028
+msgid "لالی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17041
+msgid "لامرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61023
+msgid "لاهرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55007
+msgid "لاهيجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25013
+msgid "لردگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55013
+msgid "لشت نشاء"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19076
+msgid "لطف اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28008
+msgid "لنده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55008
+msgid "لنگرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10011
+msgid "لواسان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21009
+msgid "لوجلی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55035
+msgid "لوشان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27008
+msgid "لومار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55034
+msgid "لوندویل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13047
+msgid "ليلان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28015
+msgid "ليکک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17072
+msgid "لپوني"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55033
+msgid "لیسار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99014
+msgid "ماجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49019
+msgid "مارلیک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28013
+msgid "مارگون"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55009
+msgid "ماسال"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55038
+msgid "ماسوله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14008
+msgid "ماكو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25025
+msgid "مال خليفه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44010
+msgid "مامونيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29007
+msgid "ماه نشان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18048
+msgid "ماهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49017
+msgid "ماهدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16029
+msgid "ماهشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15034
+msgid "ماهيدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14038
+msgid "ماکو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20078
+msgid "مبارکه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20079
+msgid "مجلسی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44018
+msgid "محلات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66025
+msgid "محمد آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49021
+msgid "محمد شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18049
+msgid "محمدآباد(ريگان)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14029
+msgid "محمديار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63022
+msgid "محمود آباد نمونه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12033
+msgid "محمودآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14028
+msgid "محموداباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26022
+msgid "محمودوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19051
+msgid "محولات (فيض آباد)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18050
+msgid "محي آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13003
+msgid "مراغه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13058
+msgid "مراغه،خراجلو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64016
+msgid "مراوه تپه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55037
+msgid "مرجقل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10028
+msgid "مرداباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18051
+msgid "مردهک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12034
+msgid "مرزن آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12035
+msgid "مرزیکلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13002
+msgid "مرند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17005
+msgid "مرودشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77009
+msgid "مروست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22004
+msgid "مريوان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24017
+msgid "مریانج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19083
+msgid "مزداوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18052
+msgid "مس سرچشمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16030
+msgid "مسجدسلیمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17059
+msgid "مشكان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61006
+msgid "مشكين شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19001
+msgid "مشهد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19054
+msgid "مشهد،ريزه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20081
+msgid "مشکات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49006
+msgid "مشکین دشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17014
+msgid "مصيري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63023
+msgid "معلم کلایه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26003
+msgid "معمولان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49018
+msgid "ملارد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16032
+msgid "ملاسنی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24016
+msgid "ملایر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13016
+msgid "ملكان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13059
+msgid "ملكان،ليلان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19075
+msgid "ملک اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13017
+msgid "ممقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55036
+msgid "منجیل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20082
+msgid "منظریه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18053
+msgid "منوجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14005
+msgid "مهاباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44029
+msgid "مهاجران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99015
+msgid "مهدی شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17063
+msgid "مهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27003
+msgid "مهران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13039
+msgid "مهربان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77010
+msgid "مهردشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49005
+msgid "مهرشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49020
+msgid "مهرویلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77003
+msgid "مهریز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31021
+msgid "مود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27016
+msgid "مورموري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20083
+msgid "مورچه خورت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27012
+msgid "موسيان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26020
+msgid "مومن آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22001
+msgid "موچش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15023
+msgid "ميان راهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14002
+msgid "مياندواب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13004
+msgid "ميانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14022
+msgid "ميرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66028
+msgid "ميرجاوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44022
+msgid "ميلاجرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17060
+msgid "ميمند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23001
+msgid "ميناب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64010
+msgid "مينودشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99016
+msgid "میامی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16031
+msgid "میانرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77004
+msgid "میبد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20084
+msgid "میمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20085
+msgid "نائین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25026
+msgid "ناغان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25021
+msgid "نافچ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14031
+msgid "نالوس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20086
+msgid "نجف آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18054
+msgid "نجف شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88022
+msgid "نخل تقي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77005
+msgid "ندوشن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44012
+msgid "نراق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18055
+msgid "نرمانشير(رستم اباد)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10020
+msgid "نسيم شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12036
+msgid "نشتارود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19050
+msgid "نشتيفان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20087
+msgid "نصرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19018
+msgid "نصراباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66016
+msgid "نصرت آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10032
+msgid "نصير اباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20088
+msgid "نطنز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18056
+msgid "نظام شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49007
+msgid "نظرآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13062
+msgid "نظرکهريزي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19049
+msgid "نقاب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14019
+msgid "نقده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61008
+msgid "نمين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24018
+msgid "نهاوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31007
+msgid "نهبندان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44028
+msgid "نوبران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17074
+msgid "نوبندگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19072
+msgid "نوبهار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19060
+msgid "نوخندان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17061
+msgid "نودان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15028
+msgid "نودشه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64012
+msgid "نوده خاندوز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18058
+msgid "نودژ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12039
+msgid "نور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17011
+#: model:res.city,name:l10n_ir_states.city_ir_26024
+msgid "نورآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63024
+msgid "نورجه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15017
+msgid "نوسود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20089
+msgid "نوش آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12038
+msgid "نوشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14030
+msgid "نوشين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18059
+msgid "نوق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66027
+msgid "نوك آب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64013
+msgid "نوکنده"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17016
+msgid "ني ريز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61010
+msgid "نير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19015
+msgid "نيشابور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66013
+msgid "نيك شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19045
+msgid "نيل شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_31020
+msgid "نيمبلوک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44002
+msgid "نيمور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12037
+msgid "نکا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18057
+msgid "نگار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66018
+msgid "نگور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64014
+msgid "نگين شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20090
+msgid "نیاسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77006
+msgid "نیر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20091
+msgid "نیک آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13014
+msgid "هاديشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13060
+msgid "هاديشهر(علمدار)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18060
+msgid "هجدک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77002
+msgid "هرات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15015
+msgid "هرسين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23017
+msgid "هرمز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20097
+msgid "هرند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13010
+msgid "هريس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61013
+msgid "هشتجين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13012
+msgid "هشترود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55010
+msgid "هشتپر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49002
+msgid "هشتگرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16019
+msgid "هفتگل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25014
+msgid "هفشجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15022
+msgid "هلشي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24001
+msgid "همدان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44024
+msgid "هندودر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16021
+msgid "هندیجان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13021
+msgid "هوراند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16024
+msgid "هویزه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29014
+msgid "هيدج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66020
+msgid "هيدوچ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61021
+msgid "هير"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55048
+msgid "واجارگاه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13015
+msgid "وايقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88006
+msgid "وحدتيه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49027
+msgid "وحیدیه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10019
+msgid "ورامين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17073
+msgid "وراوي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49028
+msgid "وردآورد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13011
+msgid "ورزقان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20092
+msgid "ورزﻧﻪ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20093
+msgid "ورنامخواست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20094
+msgid "وزوان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_62007
+msgid "ولايت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20095
+msgid "ونک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16044
+msgid "ویس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20096
+msgid "ویلاشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28002
+msgid "ياسوج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22011
+msgid "ياسوكند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13023
+msgid "يامچي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18061
+msgid "يزدان شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19059
+msgid "يونسي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61005
+msgid "پارس آباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_23012
+msgid "پارسیان-گاوبندی"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18014
+msgid "پاريز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10002
+msgid "پاكدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15006
+msgid "پاوه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10025
+msgid "پرديس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44019
+msgid "پرندک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55039
+msgid "پرهسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26015
+msgid "پلدختر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14017
+msgid "پلدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27014
+msgid "پهله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14013
+msgid "پيرانشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10022
+msgid "پيشوا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66032
+msgid "پيشين"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20017
+msgid "پیربکران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21010
+msgid "پیش قلعه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66002
+msgid "چابهار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55021
+msgid "چابکسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20023
+msgid "چادگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26016
+msgid "چالانچولان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14033
+msgid "چالدران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25028
+msgid "چالشتر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12011
+msgid "چالوس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19070
+msgid "چاپشلو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18018
+msgid "چترود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28004
+msgid "چرام"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20024
+msgid "چرمهین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19073
+msgid "چشمه گيلاس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88011
+msgid "چغادك"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26008
+msgid "چغلوندي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26013
+msgid "چقابل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25001
+msgid "چلگرد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16012
+msgid "چمران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12012
+msgid "چمستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20025
+msgid "چمگردان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19025
+msgid "چناران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_22021
+msgid "چناره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49012
+msgid "چهارباغ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14036
+msgid "چهاربرج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10004
+msgid "چهاردانگه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27013
+msgid "چوار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55022
+msgid "چوبر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29002
+msgid "چورزق"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19058
+msgid "چکنه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19047
+msgid "کاخک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19010
+msgid "کاريز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19080
+msgid "کاريزک ناگهاني"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20065
+msgid "کاشان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19017
+msgid "کاشمر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17064
+msgid "کامفيروز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20066
+msgid "کامه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19014
+msgid "کاهو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18062
+msgid "کبوترخان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24008
+msgid "کبودرآهنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12026
+msgid "کتالم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19055
+msgid "کدکن"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49001
+msgid "کرج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64006
+msgid "کردکوي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18063
+msgid "کرمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15033
+msgid "کرند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_44027
+msgid "کرهرود"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20067
+msgid "کرکوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19078
+msgid "کلات"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19046
+msgid "کلات نادري"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99013
+msgid "کلاته خیج"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19068
+msgid "کلاته پايه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12023
+msgid "کلارآباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12024
+msgid "کلاردشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64024
+msgid "کلاله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55028
+msgid "کلاچای"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_88029
+msgid "کلمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12025
+msgid "کله بست"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20068
+msgid "کلیشاد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49004
+msgid "کمال شهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20069
+msgid "کمشچه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19056
+msgid "کندر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15031
+msgid "کنگاور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_27009
+msgid "کهره(توحيد)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20072
+msgid "کهریزسنگ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61011
+msgid "کوثر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61020
+msgid "کورايم"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13024
+msgid "کوزه کنان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20070
+msgid "کوشک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55032
+msgid "کومله"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20071
+msgid "کوهپایه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12031
+msgid "کوهی خیل"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_63021
+msgid "کوهین"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55031
+msgid "کوچصفهان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12030
+msgid "کیاسر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55030
+msgid "کیاشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12029
+msgid "کیاکلا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64007
+msgid "گاليکش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19071
+msgid "گاوطرنا"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13061
+msgid "گاوگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12018
+msgid "گتاب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_16016
+msgid "گتوند"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_26009
+msgid "گراب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28014
+msgid "گراب سفلي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17039
+msgid "گراش"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_14035
+msgid "گردکشانه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_49015
+msgid "گرم دره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_29012
+msgid "گرماب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_99003
+msgid "گرمسار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_21006
+msgid "گرمه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61001
+msgid "گرمي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64008
+msgid "گرگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20073
+msgid "گز"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12019
+msgid "گزنک"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18045
+msgid "گشکوييه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24014
+msgid "گل تپه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18046
+msgid "گلباف"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19074
+msgid "گلبهار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20075
+msgid "گلدشت"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_18047
+msgid "گلزار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_10014
+msgid "گلستان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20076
+msgid "گلشهر"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_66024
+msgid "گلمورتي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19065
+msgid "گلمکان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_17026
+msgid "گله دار"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_12017
+msgid "گلوگاه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20074
+msgid "گلپایگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64011
+msgid "گميش تپه"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64015
+msgid "گميشان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_19044
+msgid "گناباد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_64009
+msgid "گنبدکاووس"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25023
+msgid "گندمان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_25022
+msgid "گهرو"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15020
+msgid "گهواره"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15035
+msgid "گواور"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_55025
+msgid "گوراب زرميخ"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_13025
+msgid "گوگان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_20077
+msgid "گوگد"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_15001
+msgid "گيلانغرب"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61012
+msgid "گيوي"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_61024
+msgid "گيوي(كوثر)"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_28007
+msgid "گچساران"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_24013
+msgid "گیان"
+msgstr ""
+
+#. module: l10n_ir_states
+#: model:res.city,name:l10n_ir_states.city_ir_77001
+msgid "یزد"
+msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "Iran Localization"
+#~ msgstr "بومی سازی ایران"
+
+#~ msgid ""
+#~ "\n"
+#~ "Iran Localization\n"
+#~ msgstr "بومی سازی ایران"
+
+#~ msgid "l10n"
+#~ msgstr "بومی سازی"
+
+#~ msgid "Iran - Country States"
+#~ msgstr "ایران - شهر های ایران"
