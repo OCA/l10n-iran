@@ -6,15 +6,7 @@
     "name": "Iran - Accounting",
     "version": "16.0.1.0.0",
     "category": "Accounting/Localizations/Account Charts",
-    "summary": """
-Iran Accounting Module
-============================
-iran accounting chart and localization.
-
-Also:
-    - activates a number of regional currencies.
-    - sets up Iran taxes.
-    """,
+    "summary": """iran accounting chart and localization.""",
     "author": "Fadoo, Odoo Community Association (OCA)",
     "maintainer": ["saeed-raesi"],
     "license": "AGPL-3",
