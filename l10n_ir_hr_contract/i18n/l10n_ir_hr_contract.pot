@@ -1,0 +1,181 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_ir_hr_contract
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.hr_contract_form_additional_allowance
+msgid "<span>/ day</span>"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.hr_contract_form_additional_allowance
+msgid "<span>/ month</span>"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "<span>Rials / day</span>"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "<span>Rials / month</span>"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_child_allowance
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_child_allowance
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Child Allowance"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model,name:l10n_ir_hr_contract.model_res_config_settings
+msgid "Config Settings"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Configure Default Values for Iran Salary"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model,name:l10n_ir_hr_contract.model_hr_contract
+msgid "Contract"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_daily_wages
+msgid "Daily Wage"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_daily_wages
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_daily_wages
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Daily wages"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_child_allowance
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_daily_wages
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_res_config_settings__default_wage
+msgid "Employee's monthly gross wage."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_grocery_allowance
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_grocery_allowance
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Grocery Allowance"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_hiring_bonus
+msgid "Hiring Bonus"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_house_allowance
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_house_allowance
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "House Allowance"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Iran Localization"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_life_insurance
+msgid "Life Insurance"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_child_allowance
+msgid "Monthly child allowance based on (daily wage x 3 x children counts)."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_grocery_allowance
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_grocery_allowance
+msgid "Monthly food allowance."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_house_allowance
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_res_config_settings__default_l10n_ir_house_allowance
+msgid "Monthly housing allowance."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_responsibility_bonus
+msgid "Monthly liability bonus."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_life_insurance
+msgid "Monthly life insurance amount."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_hiring_bonus
+msgid "Monthly rewardable extra hiring bonus."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_seniority_benefits
+msgid "Monthly seniority benefits by each year of the contract."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_supplement_insurance
+msgid "Monthly supplementary insurance amount."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,help:l10n_ir_hr_contract.field_hr_contract__l10n_ir_technical_bonus
+msgid "Monthly technical bonus."
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_responsibility_bonus
+msgid "Responsibility Bonus "
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model_terms:ir.ui.view,arch_db:l10n_ir_hr_contract.res_config_settings_view_form_inherit_l10n_ir_hr_contract
+msgid "Salary"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_seniority_benefits
+msgid "Seniority Benefits"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_supplement_insurance
+msgid "Supplement Insurance"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_hr_contract__l10n_ir_technical_bonus
+msgid "Technical Bonus"
+msgstr ""
+
+#. module: l10n_ir_hr_contract
+#: model:ir.model.fields,field_description:l10n_ir_hr_contract.field_res_config_settings__default_wage
+msgid "Wage"
+msgstr ""
