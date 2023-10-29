@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
+    <!-- oca-hooks : disable=xml-deprecated-data-node,
+                    xml-duplicate-record-id -->
     <data noupdate="0">
         <!-- Account Tax Group -->
         <record id="ir_tax_group_9" model="account.tax.group">
