@@ -4,7 +4,7 @@
 
 {
     "name": "Iran - Accounting",
-    "version": "16.0.1.0.0",
+    "version": "16.0.1.0.1",
     "category": "Accounting/Localizations/Account Charts",
     "summary": """iran accounting chart and localization.""",
     "author": "Fadoo, Odoo Community Association (OCA)",
