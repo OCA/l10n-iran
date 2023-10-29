@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
+    <!-- oca-hooks : disable=xml-deprecated-data-node,
+                    xml-duplicate-record-id -->
   <data>
     <record model="ir.ui.view" id="persian_calendar_prefernces_form">
       <field name="name">User Prefernces</field>

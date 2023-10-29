@@ -22,6 +22,7 @@ Also:
     "depends": ["account"],
     "data": [
         "data/l10n_ir_chart_data.xml",
+        "data/l10n_ir_chart_post_data.xml",
         "data/account.group.template.csv",
         "data/account.account.template.csv",
         "data/account_tax_group_data.xml",
