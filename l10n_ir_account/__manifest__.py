@@ -4,7 +4,7 @@
 
 {
     "name": "Iran - Accounting",
-    "version": "14.0.3.0.0",
+    "version": "14.0.3.0.1",
     "category": "Accounting/Localizations/Account Charts",
     "summary": """
 Iran Accounting Module
