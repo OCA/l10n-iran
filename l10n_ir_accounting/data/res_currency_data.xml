@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+        <record id="base.IRR" model="res.currency">
+            <field name="name">IRR</field>
+            <field name="symbol">ریال</field>
+            <field name="rounding">1.0</field>
+            <field name="active" eval="True" />
+        </record>
+</odoo>
