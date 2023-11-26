@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!-- pylint:disable=duplicate-xml-record-id -->
+<!-- oca-hooks:disable=xml-duplicate-record-id -->
 <odoo>
     <record id="l10n_ir_chart_template" model="account.chart.template">
         <field name="property_account_receivable_id" ref="ir_account_111411" />
