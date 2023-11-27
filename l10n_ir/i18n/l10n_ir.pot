@@ -6,11 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-26 09:22+0000\n"
-"PO-Revision-Date: 2023-11-26 13:19+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -20,2082 +17,2082 @@ msgstr ""
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_standard_rated_expense_base
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_standard_rated_expense_vat
 msgid "1. Standard rated expenses"
-msgstr "1. هزینه های رتبه بندی استاندارد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,tag_name:l10n_ir.tax_report_line_standard_rated_expense_base
 msgid "1. Standard rated expenses (Base)"
-msgstr "1. هزینه های رتبه بندی استاندارد (پایه)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,tag_name:l10n_ir.tax_report_line_standard_rated_expense_vat
 msgid "1. Standard rated expenses (Tax)"
-msgstr "1. هزینه های استاندارد (مالیات)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_standard_rated_sales_base
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_standard_rated_sales_vat
 msgid "1. Standard rated sales"
-msgstr "1. فروش دارای رتبه استاندارد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,tag_name:l10n_ir.tax_report_line_standard_rated_sales_base
 msgid "1. Standard rated sales (Base)"
-msgstr "1. فروش با رتبه استاندارد (پایه)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,tag_name:l10n_ir.tax_report_line_standard_rated_sales_vat
 msgid "1. Standard rated sales (Tax)"
-msgstr "1. فروش با رتبه استاندارد (مالیات)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_8110
 msgid "Absorbing the costs of conversion of production circuits"
-msgstr "جذب هزینه های تبدیل مدارهای تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811002
 msgid "Absorption of overhead costs"
-msgstr "جذب هزینه های سربار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811001
 msgid "Absorption of wage costs"
-msgstr "جذب هزینه های دستمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121101
 msgid "Accumulated depreciation of buildings"
-msgstr "استهلاک انباشته ساختمان ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121102
 msgid "Accumulated depreciation of facilities"
-msgstr "استهلاک انباشته تسهیلات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121106
 msgid "Accumulated depreciation of furniture and fixtures"
-msgstr "استهلاک انباشته مبلمان و وسایل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121107
 msgid "Accumulated depreciation of laboratory equipment"
-msgstr "استهلاک انباشته تجهیزات آزمایشگاهی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121103
 msgid "Accumulated depreciation of production machinery and equipment"
-msgstr "استهلاک انباشته ماشین آلات و تجهیزات تولیدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121109
 msgid "Accumulated depreciation of property"
-msgstr "استهلاک انباشته اموال"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121110
 msgid "Accumulated depreciation of software"
-msgstr "استهلاک انباشته نرم افزار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121104
 msgid "Accumulated depreciation of tools and molds"
-msgstr "استهلاک انباشته ابزار و قالب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121105
 msgid "Accumulated depreciation of vehicles"
-msgstr "استهلاک انباشته وسایل نقلیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311301
 #: model:account.group.template,name:l10n_ir.account_group_3113
 msgid "Accumulated profit (loss)."
-msgstr "سود انباشته (زیان)."
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_61
 msgid "Activity costs"
-msgstr "هزینه های فعالیت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_9111
 msgid "Administrative accounts are the responsibility of the company"
-msgstr "مسئولیت حساب های اداری به عهده شرکت می باشد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111905
 msgid "Advance payment for purchasing services"
-msgstr "پیش پرداخت برای خرید خدمات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111903
 msgid "Advance payment for the purchase of parts and spare parts"
-msgstr "پیش پرداخت برای خرید قطعات و لوازم یدکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111902
 msgid "Advance payment for the purchase of property, machinery and equipment"
-msgstr "پیش پرداخت برای خرید اموال، ماشین آلات و تجهیزات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111901
 msgid "Advance payment for the purchase of raw materials"
-msgstr "پیش پرداخت برای خرید مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111904
 msgid "Advance payment of current expenses"
-msgstr "پیش پرداخت هزینه های جاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111912
 msgid "Advance payment of interest and loan fees"
-msgstr "پیش پرداخت سود و کارمزد وام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111906
 msgid "Advance payment of letters of credit"
-msgstr "پیش پرداخت اعتبار اسنادی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111907
 msgid "Advance payment of property insurance"
-msgstr "پیش پرداخت بیمه اموال"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111910
 msgid "Advance payment of research and development costs"
-msgstr "پیش پرداخت هزینه های تحقیق و توسعه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111909
 msgid "Advance payment of value added tax"
-msgstr "پیش پرداخت مالیات بر ارزش افزوده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111914
 msgid "Advance payment of value added taxes"
-msgstr "پیش پرداخت مالیات بر ارزش افزوده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111913
 msgid "Advance payments to contractors"
-msgstr "پیش پرداخت به پیمانکاران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621308
 msgid "Aid and subsidies"
-msgstr "کمک و یارانه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311302
 msgid "Annual adjustments"
-msgstr "تعدیل سالیانه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211207
 msgid "Apprenticeship fund"
-msgstr "صندوق کارآموزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611012
 msgid "Apprenticeship fund share"
-msgstr "سهم صندوق کارآموزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121011
 msgid "Asset control - Salary"
-msgstr "کنترل دارایی - حقوق و دستمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121012
 msgid "Asset control - warehouse"
-msgstr "کنترل دارایی - انبار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311205
 msgid "Asset replacement fund"
-msgstr "صندوق جایگزینی دارایی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621303
 msgid "Audit fee"
-msgstr "هزینه حسابرسی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211215
 msgid "Audit fees payable"
-msgstr "هزینه های حسابرسی قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311002
 msgid "Authorized capital – registered common stock"
-msgstr "سرمایه مجاز - سهام عادی ثبت شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111305
 msgid "Bad debt provision"
-msgstr "تامین بدهی بد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111008
 msgid "Balance of foreign exchange bills of deposit"
-msgstr "مانده قبوض ارزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111804
 msgid "Bank charges"
-msgstr "هزینه های بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_1110052
 msgid "Bank deferment account"
-msgstr "حساب معوق بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911004
 msgid "Bank guarantees"
-msgstr "ضمانت نامه های بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621104
 msgid "Banking service fee"
-msgstr "کارمزد خدمات بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611009
 msgid "Ben Kargari"
-msgstr "بن کارگری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611008
 msgid "Bonuses"
-msgstr "جوایز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621305
 msgid "Books and publications"
-msgstr "کتاب ها و انتشارات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111405
 msgid "Borrowed funds"
-msgstr "وجوه قرض گرفته شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121305
 msgid "Building under completion (Sole)"
-msgstr "ساختمان در حال تکمیل (تنها)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121301
 msgid "Buildings under completion"
-msgstr "ساختمان های در حال تکمیل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_81
 msgid "Calculations of absorption and deviations"
-msgstr "محاسبات جذب و انحرافات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411010
 msgid "Calibrate income"
-msgstr "درآمد را کالیبره کنید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311201
 msgid "Capital stock"
-msgstr "سهام انتشار نیافته شرکت تضامنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1110
 msgid "Cash balance Bank"
-msgstr "بانک موجودی نقدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_1110051
 msgid "Cash transfer"
-msgstr "حواله نقد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111205
 msgid "Cashier's check"
-msgstr "چک صندوقدار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111201
 msgid "Checks in progress"
-msgstr "بررسی ها در حال انجام است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111203
 msgid "Checks receivable at the fund"
-msgstr "چک های دریافتنی در صندوق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111206
 msgid "Checks receivable at the non-commercial fund"
-msgstr "چک های قابل دریافت در صندوق غیرتجاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111808
 msgid "Clearance fee"
-msgstr "هزینه ترخیص"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111303
 msgid "Commitment of shareholders"
-msgstr "تعهد سهامداران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211002
 msgid "Companies (accounts payable)"
-msgstr "شرکت ها (حساب های پرداختنی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111302
 msgid "Companies (accounts receivable)"
-msgstr "شرکت ها (حساب های دریافتنی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_99
 msgid "Company expenses"
-msgstr "هزینه های شرکت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611213
 msgid "Consumable technical tools and equipment"
-msgstr "ابزار و تجهیزات فنی مصرفی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122001
 msgid "Copyright"
-msgstr "کپی رایت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211201
 msgid "Corporate income tax"
-msgstr "مالیات بر درآمد شرکت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111811
 msgid "Cost before opening credit"
-msgstr "هزینه قبل از افتتاح اعتبار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621006
 msgid "Cost of 3% of sales (municipal and property charges)"
-msgstr "هزینه 3% فروش (هزینه شهری و ملکی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511003
 msgid "Cost of goods sold, waste"
-msgstr "بهای تمام شده کالای فروخته شده، ضایعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621301
 msgid "Cost of legal fees"
-msgstr "هزینه هزینه های حقوقی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511005
 msgid "Cost of materials and parts"
-msgstr "هزینه مواد و قطعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511009
 msgid "Cost of production services"
-msgstr "هزینه خدمات تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621506
 msgid "Costs of Kashi Bastan cultural and sports club"
-msgstr "هزینه های باشگاه فرهنگی ورزشی کاشی باستان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111006
 msgid "Currency bank balance"
-msgstr "موجودی بانک ارز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111002
 msgid "Currency fund"
-msgstr "صندوق ارز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_11
 msgid "Current assets"
-msgstr "دارایی های جاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111404
 msgid "Current employees"
-msgstr "کارکنان فعلی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_21
 msgid "Current liabilities"
-msgstr "بدهی های جاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311401
 msgid "Current profit (loss)."
-msgstr "سود (زیان) جاری."
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621201
 msgid "Current share of research and development costs"
-msgstr "سهم فعلی هزینه های تحقیق و توسعه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111103
 msgid "Customs deposits"
-msgstr "سپرده های گمرکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111805
 msgid "Customs fees"
-msgstr "هزینه های گمرکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111406
 msgid "Damages recoverable from insurance"
-msgstr "خسارات قابل جبران از بیمه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111105
 msgid "Deposit of bank guarantees"
-msgstr "سپرده ضمانت نامه بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111102
 msgid "Deposit of participation in tenders and auctions"
-msgstr "سپرده شرکت در مناقصات و مزایده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111104
 msgid "Deposits receivable"
-msgstr "سپرده های دریافتنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2113
 msgid "Deposits received"
-msgstr "سپرده های دریافتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211302
 msgid "Deposits received for good work"
-msgstr "سپرده های دریافت شده برای کار خوب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211301
 msgid "Deposits received from auctions and tenders"
-msgstr "سپرده های دریافتی از مزایده و مناقصه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611302
 msgid "Depreciation cost of facilities"
-msgstr "هزینه استهلاک تسهیلات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611306
 msgid "Depreciation cost of furniture and fixtures"
-msgstr "هزینه استهلاک مبلمان و وسایل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611307
 msgid "Depreciation cost of laboratory equipment"
-msgstr "هزینه استهلاک تجهیزات آزمایشگاهی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611303
 msgid "Depreciation cost of production machinery and equipment"
-msgstr "هزینه استهلاک ماشین آلات و تجهیزات تولیدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611308
 msgid "Depreciation cost of property"
-msgstr "هزینه استهلاک ملک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611309
 msgid "Depreciation cost of software"
-msgstr "هزینه استهلاک نرم افزار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611301
 msgid "Depreciation cost of the building"
-msgstr "هزینه استهلاک ساختمان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611304
 msgid "Depreciation cost of tools and molds"
-msgstr "هزینه استهلاک ابزار و قالب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611305
 msgid "Depreciation cost of vehicles"
-msgstr "هزینه استهلاک وسایل نقلیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1211
 msgid "Depreciation of money, machinery, machinery and equipment"
-msgstr "استهلاک پول، ماشین آلات، ماشین آلات و تجهیزات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111624
 msgid "Depreciation reserve for product inventory"
-msgstr "ذخیره استهلاک موجودی کالا"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111625
 msgid "Depreciation reserve for raw material inventory"
-msgstr "ذخیره استهلاک موجودی مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111626
 msgid "Depreciation reserve for spare parts and supplies"
-msgstr "ذخیره استهلاک لوازم یدکی و لوازم"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311202
 msgid "Development and completion fund"
-msgstr "صندوق توسعه و تکمیل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_8113
 msgid "Deviation of conversion costs"
-msgstr "انحراف هزینه های تبدیل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811201
 msgid "Deviation of drug consumption rate"
-msgstr "انحراف میزان مصرف دارو"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_8112
 msgid "Deviation of raw materials"
-msgstr "انحراف مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111611
 msgid "Deviation of the purchase price of raw materials"
-msgstr "انحراف قیمت خرید مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411112
 msgid "Discounts on foreign products"
-msgstr "تخفیف محصولات خارجی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111499
 #: model:account.account.template,name:l10n_ir.ir_account_122008
 msgid "Dividend paid"
-msgstr "سود سهام پرداخت شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2116
 msgid "Dividends offered and payable"
-msgstr "سود سهام ارائه شده و قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211602
 msgid "Dividends payable"
-msgstr "سود سهام قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111416
 msgid "Dividends receivable"
-msgstr "سود سهام قابل دریافت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111202
 msgid "Documents in progress"
-msgstr "اسناد در دست اقدام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1112
 msgid "Documents receivable"
-msgstr "اسناد دریافتنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111204
 msgid "Documents receivable from the fund"
-msgstr "اسناد قابل دریافت از صندوق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211704
 msgid "Domestic letter of credit opening facility"
-msgstr "تسهیلات گشایش اعتبار اسنادی داخلی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411111
 msgid "Domestic product discounts"
-msgstr "تخفیف محصولات داخلی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411001
 msgid "Domestic sales of products"
-msgstr "فروش داخلی محصولات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611106
 msgid "Education"
-msgstr "تحصیلات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211212
 msgid "Eid and reward to be paid"
-msgstr "عیدی و ثواب پرداخت شود"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6111
 msgid "Employee expenses"
-msgstr "هزینه های کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211211
 msgid "Employee holiday tax"
-msgstr "مالیات تعطیلات کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111403
 msgid "Employee housing loans"
-msgstr "وام مسکن کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211206
 msgid "Employee life and accident insurance"
-msgstr "بیمه عمر و حوادث کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211202
 msgid "Employee salary tax"
-msgstr "مالیات بر حقوق کارمندان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111410
 msgid "Employees' loan fund"
-msgstr "صندوق وام کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611011
 msgid "Employer's share insurance"
-msgstr "بیمه سهم کارفرما"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611019
 msgid "Employer's supplementary insurance"
-msgstr "بیمه تکمیلی کارفرما"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2213
 msgid "End of service benefits reserve for employees"
-msgstr "ذخیره مزایای پایان خدمت برای کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_31
 msgid "Equity"
-msgstr "انصاف"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111402
 msgid "Essential employee loan"
-msgstr "وام ضروری کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121601
 msgid "Establishment and pre-operation costs"
-msgstr "هزینه های تاسیس و قبل از بهره برداری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611006
 msgid "Excellent housing and groceries"
-msgstr "مسکن و مواد غذایی عالی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621007
 msgid "Exhibition fees"
-msgstr "هزینه های نمایشگاه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611207
 msgid "Factory fuel cost"
-msgstr "هزینه سوخت کارخانه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211220
 msgid "Fees payable"
-msgstr "هزینه های قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2115
 msgid "Financial ammunition"
-msgstr "مهمات مالی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6211
 msgid "Financial expenses"
-msgstr "هزینه های مالی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611210
 msgid "Fixed asset insurance"
-msgstr "بیمه دارایی های ثابت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1213
 msgid "Fixed assets in progress"
-msgstr "دارایی های ثابت در حال پیشرفت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211102
 msgid "Foreign currency payable documents"
-msgstr "اسناد قابل پرداخت ارزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411002
 msgid "Foreign sales of products"
-msgstr "فروش محصولات خارجی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_3110
 msgid "Fund"
-msgstr "سرمایه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111007
 msgid "Funds on the way"
-msgstr "بودجه در راه است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121006
 msgid "Furnished and appointed"
-msgstr "مبله و تعیین شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621501
 msgid "Gains and losses from currency exchange"
-msgstr "سود و زیان ناشی از مبادله ارز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111701
 msgid "Goods in process"
-msgstr "کالاهای در حال انجام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621507
 msgid "Green space costs"
-msgstr "هزینه های فضای سبز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911104
 msgid "Guarantee documents for customs guarantees"
-msgstr "اسناد ضمانت ضمانت نامه های گمرکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911103
 msgid "Guarantee documents for orders"
-msgstr "مدارک ضمانت برای سفارشات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911105
 msgid "Guarantee documents for property acquisition"
-msgstr "اسناد ضمانت تملک ملک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911107
 msgid "Guarantee documents for received financial facilities"
-msgstr "اسناد ضمانت تسهیلات مالی دریافتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911006
 msgid "Guarantee documents received from Kashi representatives"
-msgstr "مدارک ضمانت دریافتی از نمایندگان کاشی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911009
 msgid "Guarantee documents received from Kashi representatives (new)"
-msgstr "مدارک ضمانت دریافتی از نمایندگان کاشی (جدید)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911003
 msgid "Guarantee documents received from employees"
-msgstr "مدارک ضمانت دریافتی از کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911001
 msgid "Guarantees for conducting tenders and auctions"
-msgstr "ضمانت برگزاری مناقصات و مزایده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911002
 #: model:account.account.template,name:l10n_ir.ir_account_911102
 msgid "Guarantees of good work"
-msgstr "تضمین کار خوب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911101
 msgid "Guarantees of participating in tenders and auctions"
-msgstr "ضمانت شرکت در مناقصات و مزایده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611105
 msgid "Healthcare"
-msgstr "مراقبت های بهداشتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621510
 msgid "Income from investment"
-msgstr "درآمد حاصل از سرمایه گذاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621511
 msgid "Income from investment."
-msgstr "درآمد حاصل از سرمایه گذاری."
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2215
 msgid "Income transferred to the future period"
-msgstr "درآمد به دوره آینده منتقل می شود"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621701
 msgid "Inconsistency in absorbing the overhead of production circles"
-msgstr "ناهماهنگی در جذب سربار دایره های تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611214
 msgid "Indirect consumables of production"
-msgstr "مواد مصرفی غیر مستقیم تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111807
 msgid "Inspection fee"
-msgstr "هزینه بازرسی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621311
 msgid "Inspectors' fees"
-msgstr "حق الزحمه بازرسان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111803
 msgid "Insurance costs"
-msgstr "هزینه های بیمه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621504
 msgid "Interest"
-msgstr "علاقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621101
 msgid "Interest and loan fees"
-msgstr "بهره و کارمزد وام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111616
 msgid "Intermediary of transportation of inventories"
-msgstr "واسطه حمل و نقل موجودی ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1116
 msgid "Inventories"
-msgstr "موجودی ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111607
 msgid "Inventory freight"
-msgstr "حمل و نقل موجودی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611211
 msgid "Inventory insurance"
-msgstr "بیمه موجودی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111605
 msgid "Inventory intermediate account and cost price"
-msgstr "حساب میانی موجودی و قیمت تمام شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111603
 msgid "Inventory of construction materials"
-msgstr "موجودی مصالح ساختمانی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111602
 msgid "Inventory of parts and spare parts"
-msgstr "موجودی قطعات و لوازم یدکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111601
 msgid "Inventory of raw materials"
-msgstr "موجودی مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111622
 msgid "Inventory of scrap raw materials and spare parts"
-msgstr "موجودی ضایعات مواد اولیه و قطعات یدکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111614
 msgid "Inventory of semi-finished materials"
-msgstr "موجودی مواد نیمه تمام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111916
 msgid "Inventory of stamps and promissory notes"
-msgstr "موجودی تمبر و سفته"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121402
 msgid "Investment in affiliated companies"
-msgstr "سرمایه گذاری در شرکت های وابسته"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121403
 msgid "Investment in real estate"
-msgstr "سرمایه گذاری در املاک و مستغلات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121401
 msgid "Investment in subsidiaries"
-msgstr "سرمایه گذاری در شرکت های تابعه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.fiscal.position.template,name:l10n_ir.fiscal_position_template_1
 msgid "Iran"
-msgstr "ایران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.chart.template,name:l10n_ir.l10n_ir_chart_template
 msgid "Iran Chart Of Account"
-msgstr "نمودار حساب ایران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621105
 msgid "Late loan penalty fee"
-msgstr "هزینه جریمه دیرکرد وام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111401
 msgid "Law assistant"
-msgstr "دستیار حقوق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111415
 msgid "Legal documents"
-msgstr "اسناد حقوقی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311101
 #: model:account.group.template,name:l10n_ir.account_group_3111
 msgid "Legal reserve"
-msgstr "ذخیره قانونی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.l10n_ir_chart_template_liquidity_transfer
 msgid "Liquidity Transfer"
-msgstr "انتقال نقدینگی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211703
 msgid "Loans received from banks - Mudarabah"
-msgstr "وام های دریافتی از بانک ها - مضاربه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211702
 msgid "Loans received from banks - advances"
-msgstr "وام های دریافتی از بانک ها - پیش پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211701
 msgid "Loans received from banks - installment sales"
-msgstr "وام دریافتی از بانک ها – فروش اقساطی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211705
 msgid "Loans received from banks, civil partnership"
-msgstr "وام های دریافتی از بانک ها، مشارکت مدنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221101
 #: model:account.group.template,name:l10n_ir.account_group_2211
 msgid "Long-term accounts payable"
-msgstr "حساب های پرداختنی بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1215
 msgid "Long-term deposits and claims"
-msgstr "سپرده ها و مطالبات بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121502
 msgid "Long-term deposits with banks"
-msgstr "سپرده های بلند مدت نزد بانک ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221002
 msgid "Long-term foreign currency payables"
-msgstr "بدهی های بلند مدت ارزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221205
 msgid "Long-term industrial loans"
-msgstr "وام های بلند مدت صنعتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1214
 msgid "Long-term investments"
-msgstr "سرمایه گذاری بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121501
 msgid "Long-term loans"
-msgstr "وام های بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221203
 msgid "Long-term payable loans - Jaala"
-msgstr "وام های قابل پرداخت بلند مدت - جعلا"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221202
 msgid "Long-term payable loans - advances"
-msgstr "وام های بلند مدت قابل پرداخت - پیش پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221204
 msgid "Long-term payable loans - civil partnership"
-msgstr "وام های قابل پرداخت بلند مدت - مشارکت مدنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221201
 msgid "Long-term payable loans - installment sales"
-msgstr "وام های بلند مدت قابل پرداخت – فروش اقساطی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2210
 msgid "Long-term payables"
-msgstr "بدهی های بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2212
 msgid "Long-term receivables financial facilities"
-msgstr "تسهیلات مالی مطالبات بلند مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121303
 msgid "Machine tools under completion"
-msgstr "ماشین آلات در حال تکمیل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611201
 msgid "Maintenance of buildings and facilities"
-msgstr "تعمیر و نگهداری ساختمان ها و تاسیسات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611205
 msgid "Maintenance of furniture and fixtures"
-msgstr "تعمیر و نگهداری مبلمان و وسایل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611206
 msgid "Maintenance of laboratory equipment"
-msgstr "تعمیر و نگهداری تجهیزات آزمایشگاهی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611203
 msgid "Maintenance of tools and molds"
-msgstr "تعمیر و نگهداری ابزار و قالب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621008
 msgid "Marketing fee and commission"
-msgstr "کارمزد و کمیسیون بازاریابی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6210
 msgid "Marketing, distribution and sales expenses"
-msgstr "هزینه های بازاریابی، توزیع و فروش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621306
 msgid "Membership fee"
-msgstr "حق عضویت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621309
 msgid "Miscellaneous costs"
-msgstr "هزینه های متفرقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621010
 msgid "Miscellaneous distribution and sales costs"
-msgstr "هزینه های متفرقه توزیع و فروش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621109
 msgid "Miscellaneous financial expenses"
-msgstr "هزینه های مالی متفرقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621505
 msgid "Miscellaneous income"
-msgstr "درآمد متفرقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611018
 msgid "Miscellaneous rights and benefits"
-msgstr "حقوق و مزایای متفرقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1210
 msgid "Money, machinery, machinery and equipment"
-msgstr "پول، ماشین آلات، ماشین آلات و تجهیزات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111413
 msgid "Motor loan"
-msgstr "وام موتور"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_net_vat_due
 msgid "Net VAT Due"
-msgstr "مالیات بر ارزش افزوده خالص"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611003
 msgid "Night shift right"
-msgstr "شیفت شب به راست"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611108
 msgid "Non-cash contributions"
-msgstr "کمک های غیر نقدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211103
 #: model:account.account.template,name:l10n_ir.ir_account_211104
 msgid "Non-commercial Riyal payable documents"
-msgstr "اسناد پرداختنی ریالی غیرتجاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111407
 msgid "Non-commercial claims from other natural and legal persons"
-msgstr "دعاوی غیرتجاری از سایر اشخاص حقیقی و حقوقی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_12
 msgid "Non-current assets"
-msgstr "دارایی های غیرجاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_22
 msgid "Non-current liabilities"
-msgstr "بدهی های غیر جاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211219
 msgid "One in a thousand physical education"
-msgstr "یک در هزار تربیت بدنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6112
 msgid "Operating expenses"
-msgstr "هزینه های اجرایی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111802
 msgid "Order registration fees"
-msgstr "هزینه ثبت سفارش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1118
 msgid "Orders and items on the way"
-msgstr "سفارشات و اقلام در راه است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111411
 msgid "Other accounts and receivables"
-msgstr "سایر حساب ها و مطالبات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2112
 msgid "Other accounts payable"
-msgstr "سایر حساب های پرداختنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211005
 msgid "Other accounts payable (participation plan)"
-msgstr "سایر حساب های پرداختنی (طرح مشارکت)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1114
 msgid "Other accounts receivable"
-msgstr "سایر حساب های دریافتنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621319
 msgid "Other administrative and organizational costs"
-msgstr "سایر هزینه های اداری و سازمانی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6113
 #: model:account.group.template,name:l10n_ir.account_group_6213
 msgid "Other administrative and organizational expenses"
-msgstr "سایر هزینه های اداری و سازمانی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211409
 msgid "Other advances"
-msgstr "پیشرفت های دیگر"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1220
 msgid "Other assets"
-msgstr "دارایی های دیگر"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111106
 #: model:account.account.template,name:l10n_ir.ir_account_122007
 msgid "Other deposits"
-msgstr "سایر سپرده ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211303
 msgid "Other deposits received"
-msgstr "سایر سپرده های دریافتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211213
 msgid "Other employee accounts payable (classification plan)"
-msgstr "سایر حساب های پرداختنی کارکنان (طرح طبقه بندی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111408
 #: model:account.account.template,name:l10n_ir.ir_account_211210
 msgid "Other employee deductions"
-msgstr "سایر کسرهای کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_62
 msgid "Other expenses and non-operational income"
-msgstr "سایر هزینه ها و درآمدهای غیر عملیاتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121607
 msgid "Other expenses for future years"
-msgstr "سایر هزینه های سال های آینده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911108
 msgid "Other guarantee documents are the responsibility of the company"
-msgstr "سایر اسناد تضمینی بر عهده شرکت می باشد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911005
 msgid "Other guarantee documents in favor of the company"
-msgstr "سایر اسناد تضمینی به نفع شرکت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6215
 msgid "Other non-operational incomes and expenses"
-msgstr "سایر درآمدها و هزینه های غیر عملیاتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411209
 msgid "Other operating income and expenses"
-msgstr "سایر درآمدها و هزینه های عملیاتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211221
 msgid "Other payments (Homa motorcycle"
-msgstr "سایر پرداخت ها (موتورسیکلت هما"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211003
 msgid "Other people's trust goods with us"
-msgstr "کالاهای اعتماد دیگران با ما"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2118
 msgid "Other reserves"
-msgstr "سایر ذخایر"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_4112
 msgid "Other revenues and operating expenses"
-msgstr "سایر درآمدها و هزینه های عملیاتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_3112
 msgid "Other savings and shares"
-msgstr "سایر پس انداز و سهام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611119
 msgid "Other staff costs"
-msgstr "سایر هزینه های کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211009
 msgid "Other trade accounts payable"
-msgstr "سایر حسابهای تجاری قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621704
 msgid "Other unexpected expenses"
-msgstr "سایر هزینه های غیر منتظره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111609
 #: model:account.account.template,name:l10n_ir.ir_account_911012
 msgid "Our trust goods with others"
-msgstr "کالاهای اعتماد ما با دیگران است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_1110054
 msgid "Overdue payment"
-msgstr "پرداخت معوقه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811302
 msgid "Overhead cost deviation"
-msgstr "انحراف هزینه سربار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811101
 msgid "Overhead share from service departments"
-msgstr "سهم سربار از بخش های خدمات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811102
 msgid "Overhead sharing of service circles"
-msgstr "اشتراک سربار حلقه های خدمات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911008
 msgid "Payment guarantee documents"
-msgstr "اسناد تضمین پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_1110053
 msgid "Pending receivables"
-msgstr "مطالبات معلق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211001
 msgid "Persons (accounts payable)"
-msgstr "اشخاص (حسابهای پرداختنی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111301
 msgid "Persons (accounts receivable)"
-msgstr "اشخاص (حسابهای دریافتنی)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122005
 msgid "Phone deposit"
-msgstr "واریز تلفنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_91
 msgid "Police accounts"
-msgstr "حساب های پلیس"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_9110
 msgid "Police accounts for the benefit of the company"
-msgstr "حساب های پلیس به نفع شرکت است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_9112
 msgid "Police accounts side"
-msgstr "سمت حساب های پلیس"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111806
 msgid "Port fees and charges"
-msgstr "هزینه ها و هزینه های بندری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621102
 msgid "Postage stamp fee"
-msgstr "هزینه تمبر پست"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611216
 msgid "Postal and telephone fees"
-msgstr "هزینه پست و تلفن"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211401
 msgid "Pre-sale of products"
-msgstr "پیش فروش محصولات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111908
 msgid "Prepaid audit"
-msgstr "حسابرسی پیش پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111911
 msgid "Prepayment of rent"
-msgstr "پیش پرداخت اجاره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2114
 msgid "Prepayments"
-msgstr "پیش پرداخت ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411113
 msgid "Product discounts"
-msgstr "تخفیف محصولات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111604
 msgid "Product inventory"
-msgstr "موجودی محصول"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111612
 msgid "Product inventory (2)"
-msgstr "موجودی محصول (2)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111615
 msgid "Product inventory 4"
-msgstr "موجودی محصول 4"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111613
 msgid "Product inventory(3)"
-msgstr "موجودی محصول (3)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121003
 msgid "Production machinery and equipment"
-msgstr "ماشین آلات و تجهیزات تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611010
 msgid "Production productivity bonus"
-msgstr "پاداش بهره وری تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621509
 msgid "Profit and loss from other items"
-msgstr "سود و زیان ناشی از سایر اقلام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621502
 msgid "Profit and loss from the sale of assets"
-msgstr "سود و زیان حاصل از فروش دارایی ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411201
 msgid "Profit and loss of waste sale"
-msgstr "سود و زیان فروش ضایعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221501
 msgid "Profit from the exchange of long-term foreign currency debts"
-msgstr "سود حاصل از مبادله بدهی های بلند مدت ارزی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221502
 msgid "Profit from the long-term sale of items"
-msgstr "سود حاصل از فروش بلند مدت اقلام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621503
 msgid "Profits and losses from property insurance"
-msgstr "سود و زیان ناشی از بیمه اموال"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111606
 #: model:account.account.template,name:l10n_ir.ir_account_121008
 msgid "Property in stock"
-msgstr "ملک در انبار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211601
 msgid "Proposed dividend"
-msgstr "سود پیشنهادی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121202
 msgid "Real estates"
-msgstr "مشاورین املاک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2117
 msgid "Received financial facilities and credits"
-msgstr "تسهیلات و اعتبارات مالی دریافت کرد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621307
 msgid "Reception and celebrations"
-msgstr "پذیرایی و جشن"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611103
 msgid "Reception and water station"
-msgstr "پذیرش و ایستگاه آب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611013
 msgid "Redemption of employees' years of service"
-msgstr "بازخرید سنوات خدمت کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311001
 msgid "Registered capital – registered ordinary shares"
-msgstr "سرمایه بانام - سهام عادی با نام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611218
 msgid "Registration and notary fee"
-msgstr "هزینه ثبت و اسناد رسمی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611202
 msgid "Repair and maintenance of production machines and equipment"
-msgstr "تعمیر و نگهداری ماشین آلات و تجهیزات تولیدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611204
 msgid "Repair and maintenance of vehicles"
-msgstr "تعمیر و نگهداری وسایل نقلیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621018
 msgid "Request fees"
-msgstr "درخواست هزینه ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111306
 msgid "Requested documents"
-msgstr "اسناد درخواستی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121606
 #: model:account.group.template,name:l10n_ir.account_group_6212
 msgid "Research and development costs"
-msgstr "هزینه های تحقیق و توسعه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221301
 msgid "Reserve employee termination benefits"
-msgstr "مزایای پایان کار را رزرو کنید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611109
 msgid "Restaurant"
-msgstr "رستوران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411103
 msgid "Return from sale"
-msgstr "بازگشت از فروش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411104
 msgid "Return from the sale of waste"
-msgstr "بازگشت از فروش ضایعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411101
 msgid "Returns from domestic sales of products"
-msgstr "بازگشت از فروش داخلی محصولات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411102
 msgid "Returns from foreign sales of products"
-msgstr "بازگشت از فروش محصولات خارجی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_4111
 msgid "Returns from sales and discounts"
-msgstr "برگشت از فروش و تخفیف"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111005
 msgid "Rial bank balance"
-msgstr "موجودی ریالی بانک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221001
 msgid "Rial long-term payables"
-msgstr "بدهی های بلند مدت ریالی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611005
 msgid "Right to attract"
-msgstr "حق جذب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611007
 msgid "Right to children"
-msgstr "حق بر فرزندان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211224
 msgid "Rights process"
-msgstr "فرآیند حقوق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211101
 msgid "Riyal payable documents"
-msgstr "اسناد ترس واقعی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611102
 msgid "Safety clothing and equipment"
-msgstr "لباس و تجهیزات ایمنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111004
 msgid "Salaries of foreign exchange traders"
-msgstr "حقوق معامله گران ارز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111003
 msgid "Salaries of riyals"
-msgstr "حقوق ریال"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6110
 msgid "Salary expenses"
-msgstr "هزینه های حقوق و دستمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211208
 msgid "Salary payable"
-msgstr "حقوق قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411004
 msgid "Sale 3"
-msgstr "فروش 3"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411009
 msgid "Sale of materials and parts"
-msgstr "فروش مواد و قطعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411011
 msgid "Sale of raw materials"
-msgstr "فروش مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_41
 msgid "Sales and revenue"
-msgstr "فروش و درآمد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411008
 msgid "Sales revenue"
-msgstr "درآمد فروش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211217
 msgid "Sales tax 2%"
-msgstr "مالیات بر فروش 2%"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211805
 msgid "Save Ben Kargari"
-msgstr "نجات بن کارگری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211802
 msgid "Save other expenses"
-msgstr "در هزینه های دیگر صرفه جویی کنید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_221305
 msgid "Save the years"
-msgstr "سالها را نجات دهید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211801
 msgid "Save unused vacation"
-msgstr "تعطیلات استفاده نشده را ذخیره کنید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411006
 msgid "Selling granules"
-msgstr "فروش گرانول"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411007
 msgid "Selling production services"
-msgstr "فروش خدمات تولیدی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411005
 msgid "Selling waste"
-msgstr "فروش ضایعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111610
 msgid "Semi-finished warehouse intermediary account"
-msgstr "حساب واسطه انبار نیمه تمام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621304
 msgid "Service purchase fee"
-msgstr "هزینه خرید خدمات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111502
 #: model:account.account.template,name:l10n_ir.ir_account_121409
 msgid "Shares of other companies"
-msgstr "سهام سایر شرکت ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_8111
 msgid "Sharing the costs of service departments"
-msgstr "تقسیم هزینه های بخش خدمات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621009
 msgid "Shipping and storage costs"
-msgstr "هزینه های حمل و نقل و ذخیره سازی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111009
 msgid "Short term bank deposit"
-msgstr "سپرده بانکی کوتاه مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111101
 msgid "Short term bank deposits"
-msgstr "سپرده های کوتاه مدت بانکی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1111
 msgid "Short term deposits"
-msgstr "سپرده های کوتاه مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1115
 msgid "Short term investments"
-msgstr "سرمایه گذاری های کوتاه مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111501
 msgid "Short-term deposits of Nasdbanks"
-msgstr "سپرده های کوتاه مدت بانک نزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2111
 msgid "Short-term payables"
-msgstr "بدهی های کوتاه مدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211205
 msgid "Social Security Organization - third party insurance premiums"
-msgstr "سازمان تامین اجتماعی - حق بیمه شخص ثالث"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211204
 msgid "Social security organization - employee insurance premium"
-msgstr "سازمان تامین اجتماعی - حق بیمه کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122011
 msgid "Softwares"
-msgstr "نرم افزارها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111623
 msgid "Storing the inventory of stagnant and non-existent items"
-msgstr "ذخیره سازی موجودی اقلام راکد و ناموجود"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811202
 msgid "Substance abuse"
-msgstr "سوء مصرف مواد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_3114
 msgid "Sud (Zyan) is my neighbor"
-msgstr "سود (زیان) همسایه من است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211223
 msgid "Supplementary insurance for employees"
-msgstr "بیمه تکمیلی برای کارکنان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211216
 msgid "Tax"
-msgstr "مالیات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211501
 msgid "Tax savings"
-msgstr "پس انداز مالیاتی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111414
 msgid "Temporary debtors"
-msgstr "بدهکاران موقت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121009
 msgid "Temporary property near the warehouse"
-msgstr "ملک موقت نزدیک انبار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911201
 msgid "The company is responsible for the administrative accounts"
-msgstr "شرکت مسئول حساب های اداری است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621001
 msgid "The cost of advertisements and promotions"
-msgstr "هزینه تبلیغات و تبلیغات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621019
 msgid "The cost of burned claims"
-msgstr "هزینه مطالبات سوخته"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621302
 msgid "The cost of consultants' fees"
-msgstr "هزینه حق الزحمه مشاوران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611217
 msgid "The cost of direct production consumables"
-msgstr "هزینه مواد مصرفی تولید مستقیم"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621020
 msgid "The cost of doubtful claims"
-msgstr "هزینه مطالبات مشکوک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1216
 msgid "The cost of future years (expenses transferred to future periods)"
-msgstr "هزینه سال های آینده (هزینه های انتقال یافته به دوره های آینده)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511001
 msgid "The cost of goods sold domestically"
-msgstr "بهای تمام شده کالاهای فروخته شده در داخل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121603
 msgid "The cost of interest and fees for long-term loans"
-msgstr "هزینه بهره و کارمزد وام های بلندمدت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611212
 msgid "The cost of laboratory consumables"
-msgstr "هزینه مواد مصرفی آزمایشگاهی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621003
 msgid "The cost of participating in the tender"
-msgstr "هزینه شرکت در مناقصه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511010
 msgid "The cost of raw materials"
-msgstr "هزینه مواد اولیه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611219
 msgid "The cost of renting a place"
-msgstr "هزینه اجاره یک مکان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621004
 msgid "The cost of sending samples"
-msgstr "هزینه ارسال نمونه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611215
 msgid "The cost of supplies and stationery"
-msgstr "هزینه لوازم و لوازم التحریر"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611110
 msgid "The cost of the employer's contribution fund"
-msgstr "هزینه صندوق مشارکت کارفرما"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611209
 msgid "The cost of water and electricity consumption"
-msgstr "هزینه مصرف آب و برق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621310
 msgid "The current share of the cost of establishment and before operation"
-msgstr "سهم فعلی هزینه تاسیس و قبل از بهره برداری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111702
 msgid "The deviation of the turnover rate at the beginning of the period"
-msgstr "انحراف نرخ گردش مالی در ابتدای دوره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121302
 msgid "The facility is being completed"
-msgstr "تسهیلات در حال تکمیل است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411210
 msgid "The income of the pallet seller"
-msgstr "درآمد فروشنده پالت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111621
 msgid "The inventory of stagnant items"
-msgstr "موجودی اقلام راکد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111801
 msgid "The original price of the order"
-msgstr "قیمت اصلی سفارش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511004
 msgid "The price of granules"
-msgstr "قیمت گرانول"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111409
 msgid "The right of workers and customs clearance workers"
-msgstr "حق کارگران و کارگران ترخیص کالا از گمرک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_621312
 msgid "The right to attend board members"
-msgstr "حق حضور اعضای هیئت مدیره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611107
 msgid "The right to exercise"
-msgstr "حق اعمال"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611004
 msgid "The right to shift work"
-msgstr "حق نوبت کاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611015
 msgid "The right to worship"
-msgstr "حق عبادت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911202
 msgid "The side of administrative accounts for the benefit of the company"
-msgstr "سمت حساب های اداری به نفع شرکت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_511002
 msgid "The total price of goods sold abroad"
-msgstr "قیمت کل کالاهای فروخته شده در خارج از کشور"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_51
 #: model:account.group.template,name:l10n_ir.account_group_5110
 msgid "The total price of the sold goods"
-msgstr "قیمت کل کالاهای فروخته شده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211218
 msgid "Three per thousand sales of industries"
-msgstr "سه در هزار فروش صنایع"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111412
 msgid "Tile loan"
-msgstr "وام عنوان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121004
 msgid "Tools and molds"
-msgstr "ابزار و قالب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121304
 msgid "Tools and molds are being completed"
-msgstr "ابزارها و قالب ها در حال تکمیل هستند"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_2110
 msgid "Trade Accounts Payable"
-msgstr "حساب های پرداختنی تجاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1113
 msgid "Trade accounts receivable"
-msgstr "حساب های دریافتنی تجاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811402
 msgid "Transfer of overhead costs"
-msgstr "انتقال هزینه های سربار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_8114
 msgid "Transfer of production conversion costs"
-msgstr "انتقال هزینه های تبدیل تولید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811401
 msgid "Transfer of wage costs"
-msgstr "انتقال هزینه های دستمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611104
 msgid "Transportation"
-msgstr "حمل و نقل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111809
 msgid "Transportation costs"
-msgstr "هزینه ی حمل و نقل"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611101
 msgid "Travel, accommodation and extraordinary mission"
-msgstr "سفر، اقامت و ماموریت فوق العاده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611016
 msgid "Unemployment Insurance"
-msgstr "بیمه بیکاری"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_6217
 msgid "Unexpected expenses"
-msgstr "هزینه های غیر منتظره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611014
 msgid "Unused leave"
-msgstr "مرخصی استفاده نشده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.group,name:l10n_ir.ir_tax_group_0
 msgid "VAT 0%"
-msgstr "مالیات بر ارزش افزوده 0%"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.group,name:l10n_ir.ir_tax_group_9
@@ -2104,236 +2101,236 @@ msgstr "مالیات بر ارزش افزوده 0%"
 #: model:account.tax.template,name:l10n_ir.ir_purchase_tax_9
 #: model:account.tax.template,name:l10n_ir.ir_sale_tax_9
 msgid "VAT 9%"
-msgstr "مالیات بر ارزش افزوده 9%"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.group,name:l10n_ir.ir_tax_group_exempted
 msgid "VAT Exempted"
-msgstr "معاف از مالیات بر ارزش افزوده"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_base_all_expense
 msgid "VAT on Expenses and all other Inputs (Base)"
-msgstr "مالیات بر ارزش افزوده هزینه ها و سایر ورودی ها (پایه)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_vat_all_expense
 msgid "VAT on Expenses and all other Inputs (Tax)"
-msgstr "مالیات بر ارزش افزوده هزینه ها و سایر ورودی ها (مالیات)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_base_all_sales
 msgid "VAT on Sales and all other Outputs (Base)"
-msgstr "مالیات بر ارزش افزوده بر فروش و سایر خروجی ها (پایه)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.tax.report.line,name:l10n_ir.tax_report_line_vat_all_sales
 msgid "VAT on Sales and all other Outputs (Tax)"
-msgstr "مالیات بر ارزش افزوده بر فروش و سایر خروجی ها (مالیات)"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122009
 msgid "VAT paid"
-msgstr "مالیات بر ارزش افزوده پرداخت شده است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211006
 #: model:account.account.template,name:l10n_ir.ir_account_211007
 msgid "VAT payable"
-msgstr "مالیات بر ارزش افزوده قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122010
 msgid "Value added tax paid"
-msgstr "مالیات بر ارزش افزوده پرداخت شده است"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611208
 msgid "Vehicle fuel cost"
-msgstr "هزینه سوخت خودرو"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_811301
 msgid "Wage cost deviation"
-msgstr "انحراف هزینه دستمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611017
 msgid "Wages of daily wage workers"
-msgstr "دستمزد کارگران روزمزد"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_911106
 msgid "Warranty documents for agency sales"
-msgstr "اسناد گارانتی برای فروش نمایندگی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411114
 msgid "Waste discounts"
-msgstr "تخفیف ضایعات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111608
 msgid "Waste inventory"
-msgstr "موجودی زباله"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211203
 msgid "Withholding tax of third parties"
-msgstr "مالیات تکلیفی اشخاص ثالث"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1117
 msgid "Work in progress"
-msgstr "کار در حال انجام"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211214
 msgid "Workers Welfare Fund"
-msgstr "صندوق رفاه کارگران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611001
 msgid "basic salary"
-msgstr "حقوق پایه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211209
 msgid "contractors"
-msgstr "پیمانکاران"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211010
 msgid "current partners"
-msgstr "شرکای فعلی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122004
 msgid "electricity deposit"
-msgstr "سپرده برق"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121002
 msgid "facilities"
-msgstr "امکانات"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122006
 msgid "gas deposit"
-msgstr "رسوب گاز"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211225
 msgid "interest payable"
-msgstr "بهره قابل پرداخت"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121007
 msgid "lab equipment"
-msgstr "تجهیزات آزمایشگاهی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111810
 msgid "other costs"
-msgstr "دیگر هزینه ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611002
 msgid "overtime"
-msgstr "در طول زمان"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211004
 msgid "pending purchase"
-msgstr "در انتظار خرید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1119
 msgid "pre paids"
-msgstr "پیش پرداخت ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311601
 #: model:account.group.template,name:l10n_ir.account_group_3116
 msgid "profit sharing"
-msgstr "تقسیم سود"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611021
 msgid "rank salary"
-msgstr "حقوق رتبه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.group.template,name:l10n_ir.account_group_1212
 msgid "real estate"
-msgstr "مشاور املاک"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311203
 msgid "reserve fund"
-msgstr "صندوق ذخیره"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_111001
 msgid "rial fund"
-msgstr "صندوق ریالی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122002
 msgid "right of business"
-msgstr "حق کسب و کار"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_411003
 msgid "sale"
-msgstr "فروش"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_211222
 msgid "sales tax 2%"
-msgstr "مالیات فروش 2%"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_311206
 msgid "spend on shares"
-msgstr "برای سهام خرج کنید"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122012
 msgid "systems and methods"
-msgstr "سیستم ها و روش ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611020
 msgid "technical right"
-msgstr "حق فنی"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121001
 msgid "the buildings"
-msgstr "ساختمان ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121605
 msgid "the cost of years"
-msgstr "هزینه سال ها"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121201
 msgid "the earth"
-msgstr "زمین"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_121005
 msgid "vehicles"
-msgstr "وسايل نقليه"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_122003
 msgid "water deposit"
-msgstr "رسوب آب"
+msgstr ""
 
 #. module: l10n_ir
 #: model:account.account.template,name:l10n_ir.ir_account_611022
 msgid "work conditions"
-msgstr "شرایط کاری"
+msgstr ""
