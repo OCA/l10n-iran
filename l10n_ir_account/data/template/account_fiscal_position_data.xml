@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <!--
     Must be Convert to CSV With this Name: account.fiscal.position-ir.csv
-    -->
-
-<?xml version="1.0" encoding="utf-8" ?>
+-->
 <odoo>
         <!-- Fiscal Position Templates -->
         <record
