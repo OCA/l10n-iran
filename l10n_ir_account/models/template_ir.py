@@ -16,7 +16,12 @@ class AccountChartTemplate(models.AbstractModel):
                  * code_digits
         :rtype: dict
         """
-        return {}
+        return {
+            'property_account_receivable_id': 'l10n_ir_chart_111411',
+            'property_account_payable_id': 'l10n_ir_chart_211009',
+            'property_account_expense_categ_id': 'l10n_ir_chart_621309',
+            'property_account_income_categ_id': 'l10n_ir_chart_411003',
+        }
 
     @template("ir", "res.company")
     def _get_ir_res_company(self):
@@ -33,5 +38,6 @@ class AccountChartTemplate(models.AbstractModel):
                 "bank_account_code_prefix": "1014",
                 "cash_account_code_prefix": "1015",
                 "transfer_account_code_prefix": "1017",
+                "account_default_pos_receivable_account_id": "l10n_ir_chart_111411",
             }
         }
