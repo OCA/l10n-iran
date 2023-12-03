@@ -17,10 +17,10 @@ class AccountChartTemplate(models.AbstractModel):
         :rtype: dict
         """
         return {
-            'property_account_receivable_id': 'l10n_ir_chart_111411',
-            'property_account_payable_id': 'l10n_ir_chart_211009',
-            'property_account_expense_categ_id': 'l10n_ir_chart_621309',
-            'property_account_income_categ_id': 'l10n_ir_chart_411003',
+            "property_account_receivable_id": "l10n_ir_chart_111411",
+            "property_account_payable_id": "l10n_ir_chart_211009",
+            "property_account_expense_categ_id": "l10n_ir_chart_621309",
+            "property_account_income_categ_id": "l10n_ir_chart_411003",
         }
 
     @template("ir", "res.company")
