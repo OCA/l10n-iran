@@ -64,6 +64,7 @@ Contributors
 ------------
 
 -  Saeed Raeisi <saeed.raesi2020@gmail.com>.
+-  hamid karampour: @hamidk1010
 
 Maintainers
 -----------
