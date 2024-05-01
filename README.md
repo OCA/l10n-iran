@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[l10n_ir_account](l10n_ir_account/) | 17.0.1.0.0 |  | iran accounting chart and localization.
+[l10n_ir_account](l10n_ir_account/) | 17.0.1.0.1 |  | iran accounting chart and localization.
 [l10n_ir_states](l10n_ir_states/) | 17.0.1.0.0 |  | Add Iran States and Cities
 
 [//]: # (end addons)
