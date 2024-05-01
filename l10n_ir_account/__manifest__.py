@@ -2,7 +2,7 @@
 
 {
     "name": "Iran - Accounting",
-    "version": "17.0.1.0.0",
+    "version": "17.0.1.0.1",
     "countries": ["ir"],
     "author": "Fadoo,Odoo Community Association (OCA)",
     "category": "Accounting/Localizations/Account Charts",
