@@ -17,7 +17,11 @@ l10n-iran
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[l10n_ir_account](l10n_ir_account/) | 18.0.1.0.0 |  | iran accounting chart and localization.
 
 [//]: # (end addons)
 
