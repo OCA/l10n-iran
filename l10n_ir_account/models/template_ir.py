@@ -27,8 +27,6 @@ class AccountChartTemplate(models.AbstractModel):
                 "bank_account_code_prefix": "1111",
                 "cash_account_code_prefix": "1113",
                 "transfer_account_code_prefix": "1114",
-                "account_default_pos_receivable_account_id": (
-                    "l10n_ir_chart_111411"
-                ),
+                "account_default_pos_receivable_account_id": ("l10n_ir_chart_111411"),
             }
         }

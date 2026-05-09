@@ -8,9 +8,7 @@ class TestL10nIrAccount(TransactionCase):
     @classmethod
     def setUpClass(cls):
         super().setUpClass()
-        cls.chart_template = cls.env["account.chart.template"]._get_chart_template(
-            "ir"
-        )
+        cls.chart_template = cls.env["account.chart.template"]._get_chart_template("ir")
 
     def test_chart_template_exists(self):
         """The IR chart template should be available."""
@@ -34,30 +32,18 @@ class TestL10nIrAccount(TransactionCase):
         self.assertIn(company_id, defaults)
         company_defaults = defaults[company_id]
         self.assertFalse(company_defaults["anglo_saxon_accounting"])
-        self.assertEqual(
-            company_defaults["account_fiscal_country_id"], "base.ir"
-        )
-        self.assertEqual(
-            company_defaults["bank_account_code_prefix"], "1111"
-        )
-        self.assertEqual(
-            company_defaults["cash_account_code_prefix"], "1113"
-        )
-        self.assertEqual(
-            company_defaults["transfer_account_code_prefix"], "1114"
-        )
+        self.assertEqual(company_defaults["account_fiscal_country_id"], "base.ir")
+        self.assertEqual(company_defaults["bank_account_code_prefix"], "1111")
+        self.assertEqual(company_defaults["cash_account_code_prefix"], "1113")
+        self.assertEqual(company_defaults["transfer_account_code_prefix"], "1114")
 
     def test_account_templates_loaded(self):
         """CSV templates should contain valid account data."""
-        accounts = self.env["account.chart.template"]._get_chart_template_data(
-            "ir"
-        )
+        accounts = self.env["account.chart.template"]._get_chart_template_data("ir")
         self.assertTrue(
             accounts.get("account.account"), "Account data should be loaded"
         )
-        self.assertTrue(
-            accounts.get("account.tax"), "Tax data should be loaded"
-        )
+        self.assertTrue(accounts.get("account.tax"), "Tax data should be loaded")
         self.assertTrue(
             accounts.get("account.fiscal.position"),
             "Fiscal position data should be loaded",
@@ -66,20 +52,14 @@ class TestL10nIrAccount(TransactionCase):
     def test_chart_installation(self):
         """Installing the Iranian chart should create accounts."""
         company = self.env.company
-        chart_template = self.env["account.chart.template"]._get_chart_template(
-            "ir"
-        )
+        chart_template = self.env["account.chart.template"]._get_chart_template("ir")
         self.assertIsNotNone(
             chart_template, "Chart template should be returned"
         )
         # Load the chart for the current company
-        self.env["account.chart.template"]._load(
-            "ir", company
-        )
+        self.env["account.chart.template"]._load("ir", company)
         # Check that accounts were created
-        accounts = self.env["account.account"].search(
-            [("company_id", "=", company.id)]
-        )
+        accounts = self.env["account.account"].search([("company_id", "=", company.id)])
         self.assertTrue(
             len(accounts) > 10,
             f"Expected more than 10 accounts after chart install, got {len(accounts)}",
@@ -104,7 +84,9 @@ class TestL10nIrAccount(TransactionCase):
         tax_groups = self.env["account.tax.group"].search(
             [("company_id", "=", company.id)]
         )
-        self.assertTrue(len(tax_groups) >= 3, "At least 3 tax groups should exist")
+        self.assertTrue(
+            len(tax_groups) >= 3, "At least 3 tax groups should exist"
+        )
 
     def test_account_types_fixed(self):
         """Cash accounts should have asset_cash type, not income."""
@@ -119,7 +101,8 @@ class TestL10nIrAccount(TransactionCase):
         )
         if cash_account:
             self.assertEqual(
-                cash_account.account_type, "asset_cash",
+                cash_account.account_type,
+                "asset_cash",
                 "Cash account code 111001 should have type asset_cash",
             )
 
@@ -136,7 +119,8 @@ class TestL10nIrAccount(TransactionCase):
         )
         if revenue_account:
             self.assertEqual(
-                revenue_account.account_type, "income",
+                revenue_account.account_type,
+                "income",
                 "Revenue account code 411001 should have type income",
             )
 
