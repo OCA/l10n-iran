@@ -1,0 +1,2 @@
+"id","name","auto_apply","country_id","state_ids","sequence","tax_ids/tax_src_id","tax_ids/tax_dest_id","account_ids/account_src_id","account_ids/account_dest_id","name@fa"
+"fiscal_position_template_ir_1","Iran","1","base.ir","","","ir_sale_tax_10","ir_purchase_tax_10","","","ایران"

@@ -1,0 +1,11 @@
+"id","name","description","invoice_label","amount","type_tax_use","tax_group_id","price_include","repartition_line_ids/repartition_type","repartition_line_ids/document_type","repartition_line_ids/account_id"
+
+"ir_sale_tax_10","VAT 10%","","","10","sale","tax_group_ir_10","","base","invoice",""
+"","","","","","","","","tax","invoice","l10n_ir_chart_211006"
+"","","","","","","","","base","refund",""
+"","","","","","","","","tax","refund","l10n_ir_chart_211006"
+
+"ir_purchase_tax_10","VAT 10%","","","10","purchase","tax_group_ir_10","","base","invoice",""
+"","","","","","","","","tax","invoice","l10n_ir_chart_111417"
+"","","","","","","","","base","refund",""
+"","","","","","","","","tax","refund","l10n_ir_chart_111417"
