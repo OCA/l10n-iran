@@ -25,14 +25,16 @@ class TestL10nIrAccount(TransactionCase):
                 ("amount", "=", 10),
             ]
         )
-        self.assertTrue(len(taxes) > 0, "VAT 10% taxes should exist")
+        self.assertTrue(len(taxes) > 0, "VAT 10% taxes must exist")
 
     def test_tax_groups_created(self):
         """Tax groups should be created."""
         company = self.env.company
         self.env["account.chart.template"]._load("ir", company, install_demo=True)
-        tax_groups = self.env["account.tax.group"].search([("company_id", "=", company.id)])
-        self.assertTrue(len(tax_groups) >= 3, "At least 3 tax groups should exist")
+        tax_groups = self.env["account.tax.group"].search(
+            [("company_id", "=", company.id)]
+        )
+        self.assertTrue(len(tax_groups) >= 3, "At least 3 tax groups exist")
 
     def test_account_types_fixed(self):
         """Cash accounts should have asset_cash type, not income."""
@@ -45,11 +47,11 @@ class TestL10nIrAccount(TransactionCase):
             ],
             limit=1,
         )
-        self.assertTrue(cash_account, "Cash account 111001 should exist")
+        self.assertTrue(cash_account, "Cash account 111001 must exist")
         self.assertEqual(
             cash_account.account_type,
             "asset_cash",
-            "Cash account code 111001 should have type asset_cash",
+            "Cash account code 111001 must have type asset_cash",
         )
 
     def test_revenue_accounts_have_income_type(self):
@@ -63,17 +65,17 @@ class TestL10nIrAccount(TransactionCase):
             ],
             limit=1,
         )
-        self.assertTrue(revenue_account, "Revenue account 411001 should exist")
+        self.assertTrue(revenue_account, "Revenue account 411001 must exist")
         self.assertEqual(
             revenue_account.account_type,
             "income",
-            "Revenue account code 411001 should have type income",
+            "Revenue account code 411001 must have type income",
         )
 
     def test_currency_configured(self):
         """IRR currency should be configured."""
         irr = self.env.ref("base.IRR")
-        self.assertTrue(irr.active, "IRR currency should be active")
+        self.assertTrue(irr.active, "IRR currency must be active")
         self.assertEqual(irr.name, "IRR")
         self.assertEqual(irr.symbol, "ریال")
 
