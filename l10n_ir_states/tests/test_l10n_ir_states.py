@@ -19,14 +19,12 @@ class TestL10nIrStates(TransactionCase):
             len(self.states) >= 31,
             f"Expected at least 31 states, got {len(self.states)}",
         )
-        tehran = self.states.filtered(lambda s: s.name == "تهران")
+        tehran = self.states.filtered(lambda s: s.name == "استان تهران")
         self.assertTrue(tehran, "Tehran province should exist")
 
     def test_cities_loaded(self):
         """Iranian cities should be loaded."""
-        cities = self.env["res.city"].search(
-            [("country_id", "=", self.iran.id)]
-        )
+        cities = self.env["res.city"].search([("country_id", "=", self.iran.id)])
         self.assertTrue(
             len(cities) >= 1000,
             f"Expected at least 1000 cities, got {len(cities)}",
