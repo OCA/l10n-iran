@@ -69,6 +69,9 @@ class TestL10nIrAccount(TransactionCase):
         chart_template = self.env["account.chart.template"]._get_chart_template(
             "ir"
         )
+        self.assertIsNotNone(
+            chart_template, "Chart template should be returned"
+        )
         # Load the chart for the current company
         self.env["account.chart.template"]._load(
             "ir", company
