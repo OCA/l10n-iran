@@ -9,9 +9,7 @@ class TestL10nIrAccount(TransactionCase):
     def setUpClass(cls):
         super().setUpClass()
         cls.company = cls.env.company
-        cls.env["account.chart.template"]._load(
-            "ir", cls.company, install_demo=False
-        )
+        cls.env["account.chart.template"]._load("ir", cls.company, install_demo=False)
 
     def test_chart_installation(self):
         """Installing the Iranian chart should create accounts."""
