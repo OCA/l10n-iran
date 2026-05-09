@@ -99,12 +99,12 @@ class TestL10nIrAccount(TransactionCase):
             ],
             limit=1,
         )
-        if cash_account:
-            self.assertEqual(
-                cash_account.account_type,
-                "asset_cash",
-                "Cash account code 111001 should have type asset_cash",
-            )
+        self.assertTrue(cash_account, "Cash account 111001 should exist")
+        self.assertEqual(
+            cash_account.account_type,
+            "asset_cash",
+            "Cash account code 111001 should have type asset_cash",
+        )
 
     def test_revenue_accounts_have_income_type(self):
         """Revenue accounts should have income type."""
@@ -117,12 +117,12 @@ class TestL10nIrAccount(TransactionCase):
             ],
             limit=1,
         )
-        if revenue_account:
-            self.assertEqual(
-                revenue_account.account_type,
-                "income",
-                "Revenue account code 411001 should have type income",
-            )
+        self.assertTrue(revenue_account, "Revenue account 411001 should exist")
+        self.assertEqual(
+            revenue_account.account_type,
+            "income",
+            "Revenue account code 411001 should have type income",
+        )
 
     def test_currency_configured(self):
         """IRR currency should be configured."""
