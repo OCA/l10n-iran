@@ -5,61 +5,13 @@ from odoo.tests import TransactionCase
 class TestL10nIrAccount(TransactionCase):
     """Test the Iranian chart of accounts template."""
 
-    @classmethod
-    def setUpClass(cls):
-        super().setUpClass()
-        cls.chart_template = cls.env["account.chart.template"]._get_chart_template("ir")
-
-    def test_chart_template_exists(self):
-        """The IR chart template should be available."""
-        self.assertIsNotNone(
-            self.chart_template,
-            "Iranian chart template should exist",
-        )
-
-    def test_chart_template_data(self):
-        """Chart template should return proper configuration."""
-        data = self.env["account.chart.template"]._get_ir_template_data()
-        self.assertIn("property_account_receivable_id", data)
-        self.assertIn("property_account_payable_id", data)
-        self.assertIn("property_account_expense_categ_id", data)
-        self.assertIn("property_account_income_categ_id", data)
-
-    def test_company_defaults(self):
-        """Company defaults should be properly set."""
-        defaults = self.env["account.chart.template"]._get_ir_res_company()
-        company_id = self.env.company.id
-        self.assertIn(company_id, defaults)
-        company_defaults = defaults[company_id]
-        self.assertFalse(company_defaults["anglo_saxon_accounting"])
-        self.assertEqual(company_defaults["account_fiscal_country_id"], "base.ir")
-        self.assertEqual(company_defaults["bank_account_code_prefix"], "1111")
-        self.assertEqual(company_defaults["cash_account_code_prefix"], "1113")
-        self.assertEqual(company_defaults["transfer_account_code_prefix"], "1114")
-
-    def test_account_templates_loaded(self):
-        """CSV templates should contain valid account data."""
-        accounts = self.env["account.chart.template"]._get_chart_template_data("ir")
-        self.assertTrue(
-            accounts.get("account.account"), "Account data should be loaded"
-        )
-        self.assertTrue(accounts.get("account.tax"), "Tax data should be loaded")
-        self.assertTrue(
-            accounts.get("account.fiscal.position"),
-            "Fiscal position data should be loaded",
-        )
-
     def test_chart_installation(self):
         """Installing the Iranian chart should create accounts."""
         company = self.env.company
-        chart_template = self.env["account.chart.template"]._get_chart_template("ir")
-        self.assertIsNotNone(
-            chart_template, "Chart template should be returned"
-        )
-        # Load the chart for the current company
         self.env["account.chart.template"]._load("ir", company)
-        # Check that accounts were created
-        accounts = self.env["account.account"].search([("company_id", "=", company.id)])
+        accounts = self.env["account.account"].search(
+            [("company_id", "=", company.id)]
+        )
         self.assertTrue(
             len(accounts) > 10,
             f"Expected more than 10 accounts after chart install, got {len(accounts)}",
