@@ -8,10 +8,8 @@ class TestL10nIrAccount(TransactionCase):
     def test_chart_installation(self):
         """Installing the Iranian chart should create accounts."""
         company = self.env.company
-        self.env["account.chart.template"]._load("ir", company)
-        accounts = self.env["account.account"].search(
-            [("company_id", "=", company.id)]
-        )
+        self.env["account.chart.template"]._load("ir", company, install_demo=True)
+        accounts = self.env["account.account"].search([("company_id", "=", company.id)])
         self.assertTrue(
             len(accounts) > 10,
             f"Expected more than 10 accounts after chart install, got {len(accounts)}",
@@ -20,7 +18,7 @@ class TestL10nIrAccount(TransactionCase):
     def test_vat_taxes_created(self):
         """VAT 10% taxes should be created after chart install."""
         company = self.env.company
-        self.env["account.chart.template"]._load("ir", company)
+        self.env["account.chart.template"]._load("ir", company, install_demo=True)
         taxes = self.env["account.tax"].search(
             [
                 ("company_id", "=", company.id),
@@ -32,18 +30,14 @@ class TestL10nIrAccount(TransactionCase):
     def test_tax_groups_created(self):
         """Tax groups should be created."""
         company = self.env.company
-        self.env["account.chart.template"]._load("ir", company)
-        tax_groups = self.env["account.tax.group"].search(
-            [("company_id", "=", company.id)]
-        )
-        self.assertTrue(
-            len(tax_groups) >= 3, "At least 3 tax groups should exist"
-        )
+        self.env["account.chart.template"]._load("ir", company, install_demo=True)
+        tax_groups = self.env["account.tax.group"].search([("company_id", "=", company.id)])
+        self.assertTrue(len(tax_groups) >= 3, "At least 3 tax groups should exist")
 
     def test_account_types_fixed(self):
         """Cash accounts should have asset_cash type, not income."""
         company = self.env.company
-        self.env["account.chart.template"]._load("ir", company)
+        self.env["account.chart.template"]._load("ir", company, install_demo=True)
         cash_account = self.env["account.account"].search(
             [
                 ("company_id", "=", company.id),
@@ -61,7 +55,7 @@ class TestL10nIrAccount(TransactionCase):
     def test_revenue_accounts_have_income_type(self):
         """Revenue accounts should have income type."""
         company = self.env.company
-        self.env["account.chart.template"]._load("ir", company)
+        self.env["account.chart.template"]._load("ir", company, install_demo=True)
         revenue_account = self.env["account.account"].search(
             [
                 ("company_id", "=", company.id),
