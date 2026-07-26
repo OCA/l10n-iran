@@ -18,9 +18,9 @@ class AccountChartTemplate(models.AbstractModel):
         :rtype: dict
         """
         return {
-            "property_account_receivable_id": "l10n_ir_chart_111411",
-            "property_account_payable_id": "l10n_ir_chart_211009",
-            "property_account_expense_categ_id": "l10n_ir_chart_621309",
+            "property_account_receivable_id": "l10n_ir_chart_111301",
+            "property_account_payable_id": "l10n_ir_chart_211001",
+            "property_account_expense_categ_id": "l10n_ir_chart_511001",
             "property_account_income_categ_id": "l10n_ir_chart_411003",
         }
 
