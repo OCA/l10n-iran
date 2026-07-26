@@ -60,6 +60,7 @@ Contributors
 ~~~~~~~~~~~~
 
 * Saeed Raeisi <saeed.raesi2020@gmail.com>.
+* Mojtaba Akbarpour <contact@makbarpour.ir>
 
 Maintainers
 ~~~~~~~~~~~
