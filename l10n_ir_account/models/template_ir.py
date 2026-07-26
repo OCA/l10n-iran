@@ -20,7 +20,7 @@ class AccountChartTemplate(models.AbstractModel):
         return {
             "property_account_receivable_id": "l10n_ir_chart_111301",
             "property_account_payable_id": "l10n_ir_chart_211001",
-            "property_account_expense_categ_id": "l10n_ir_chart_511001",
+            "property_account_expense_categ_id": "l10n_ir_chart_511000",
             "property_account_income_categ_id": "l10n_ir_chart_411003",
         }
 
