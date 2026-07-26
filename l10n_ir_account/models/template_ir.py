@@ -36,9 +36,13 @@ class AccountChartTemplate(models.AbstractModel):
             self.env.company.id: {
                 "anglo_saxon_accounting": False,
                 "account_fiscal_country_id": "base.ir",
-                "bank_account_code_prefix": "1014",
-                "cash_account_code_prefix": "1015",
-                "transfer_account_code_prefix": "1017",
+                "bank_account_code_prefix": "1110",
+                "cash_account_code_prefix": "1110",
+                "transfer_account_code_prefix": "1110",
                 "account_default_pos_receivable_account_id": "l10n_ir_chart_111411",
+                "income_currency_exchange_account_id": "l10n_ir_chart_621508",
+                "expense_currency_exchange_account_id": "l10n_ir_chart_621511",
+                "account_sale_tax_id": "ir_sale_tax_10",
+                "account_purchase_tax_id": "ir_purchase_tax_10",
             }
         }
