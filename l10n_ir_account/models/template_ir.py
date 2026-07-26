@@ -11,7 +11,7 @@ class AccountChartTemplate(models.AbstractModel):
     def _get_ir_template_data(self):
         """Return the data necessary for the chart template.
 
-        :return: all the values that are not stored but are used to instancieate
+        :return: all the values that are not stored but are used to instantiate
                  the chart of accounts. Common keys are:
                  * property_*
                  * code_digits
