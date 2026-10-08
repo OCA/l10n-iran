@@ -1,7 +1,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "Iran - Accounting",
-    "version": "19.0.1.0.0",
+    "version": "20.0.1.0.0",
     "countries": ["ir"],
     "author": "Fadoo, Odoo Community Association (OCA)",
     "category": "Accounting/Localizations/Account Charts",
@@ -11,6 +11,5 @@
     "depends": ["account"],
     "data": [
         "data/res_currency_data.xml",
-        "data/res.bank.csv",
     ],
 }

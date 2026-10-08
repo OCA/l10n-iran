@@ -76,13 +76,3 @@ class TestL10nIrAccount(TransactionCase):
         self.assertTrue(irr.active, "IRR currency must be active")
         self.assertEqual(irr.name, "IRR")
         self.assertEqual(irr.symbol, "ریال")
-
-    def test_banks_loaded(self):
-        """Iranian banks should be available."""
-        banks = self.env["res.bank"].search(
-            [("country", "=", self.env.ref("base.ir").id)]
-        )
-        self.assertTrue(
-            len(banks) >= 20,
-            f"Expected at least 20 Iranian banks, got {len(banks)}",
-        )

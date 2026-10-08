@@ -11,10 +11,7 @@ class AccountChartTemplate(models.AbstractModel):
     def _get_ir_template_data(self):
         """Return the Iranian chart of accounts template configuration."""
         return {
-            "property_account_receivable_id": "l10n_ir_chart_111411",
-            "property_account_payable_id": "l10n_ir_chart_211009",
-            "property_account_expense_categ_id": "l10n_ir_chart_621309",
-            "property_account_income_categ_id": "l10n_ir_chart_411003",
+            "code_digits": "6",
         }
 
     @template("ir", "res.company")
@@ -27,6 +24,12 @@ class AccountChartTemplate(models.AbstractModel):
                 "bank_account_code_prefix": "1111",
                 "cash_account_code_prefix": "1113",
                 "transfer_account_code_prefix": "1114",
-                "account_default_pos_receivable_account_id": ("l10n_ir_chart_111411"),
+                "account_default_pos_receivable_account_id": "l10n_ir_chart_111411",
+                "receivable_account_id": "l10n_ir_chart_111411",
+                "payable_account_id": "l10n_ir_chart_211009",
+                "expense_account_id": "l10n_ir_chart_621309",
+                "income_account_id": "l10n_ir_chart_411003",
+                "account_sale_tax_id": "ir_sale_tax_10",
+                "account_purchase_tax_id": "ir_purchase_tax_10",
             }
         }
