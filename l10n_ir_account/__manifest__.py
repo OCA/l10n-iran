@@ -1,10 +1,11 @@
-# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
-
+# -*- coding: utf-8 -*-
+# Copyright (C) 2024-Today: Odoo Community Iran
+# @author: Odoo Community Iran (https://odoo-community.ir/
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 {
     "name": "Iran - Accounting",
-    "version": "17.0.1.0.1",
+    "version": "1.0.1",
     "countries": ["ir"],
-    "author": "Fadoo,Odoo Community Association (OCA)",
     "category": "Accounting/Localizations/Account Charts",
     "summary": """iran accounting chart and localization.""",
     "license": "AGPL-3",
