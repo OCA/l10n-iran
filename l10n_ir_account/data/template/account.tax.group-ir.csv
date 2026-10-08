@@ -1,0 +1,4 @@
+"id","name","country_id","name@fa"
+"tax_group_ir_9","VAT 9%","base.ir","مالیات بر ارزش افروده ۹ درصد"
+"tax_group_ir_0","VAT 0%","base.ir","مالیات بر ارزش افروده ۰ درصد"
+"ir_tax_group_exempted","VAT Exempted","base.ir","معاف"
