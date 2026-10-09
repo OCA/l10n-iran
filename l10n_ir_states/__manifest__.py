@@ -2,7 +2,7 @@
 {
     "name": "Iran - Country States",
     "category": "Localization/Iran",
-    "version": "19.0.1.0.0",
+    "version": "20.0.1.0.0",
     "author": "Fadoo, Odoo Community Association (OCA)",
     "maintainer": ["saeed-raesi"],
     "website": "https://github.com/OCA/l10n-iran",
