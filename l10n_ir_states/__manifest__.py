@@ -2,9 +2,9 @@
 {
     "name": "Iran - Country States",
     "category": "Localization/Iran",
-    "version": "17.0.1.0.0",
+    "version": "19.0.1.0.0",
     "author": "Fadoo, Odoo Community Association (OCA)",
-    "maintainer": ["saeed-raesi", "hamidk1010"],
+    "maintainer": ["saeed-raesi"],
     "website": "https://github.com/OCA/l10n-iran",
     "license": "AGPL-3",
     "summary": "Add Iran States and Cities",
@@ -14,4 +14,5 @@
         "data/res.city.csv",
         "data/res_country_data.xml",
     ],
+    "installable": True,
 }
